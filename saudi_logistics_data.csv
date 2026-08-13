@@ -1,0 +1,1001 @@
+Shipment_ID,Origin_Hub,Destination_City,Courier_Partner,Distance_KM,Expected_Days,Actual_Days,Shipping_Cost_SAR,Weight_KG,Delivery_Status,Is_Delayed
+KSA-LOG-1000,Riyadh Central Hub,Khobar,SAL Express,444,2,2,158.77,39.3,On-Time,0
+KSA-LOG-1001,Madinah Distribution Center,NEOM,Aramex KSA,1053,3,3,163.56,21.73,On-Time,0
+KSA-LOG-1002,Dammam Logistics Gateway,Tabuk,SMSA Express,1388,4,4,162.17,10.45,On-Time,0
+KSA-LOG-1003,Dammam Logistics Gateway,Dammam,SMSA Express,1123,3,3,179.72,25.95,On-Time,0
+KSA-LOG-1004,Jeddah Port Hub,Khobar,SAL Express,781,2,2,179.83,36.94,On-Time,0
+KSA-LOG-1005,Jeddah Port Hub,Madinah,Aramex KSA,1200,3,3,176.25,22.1,On-Time,0
+KSA-LOG-1006,Jeddah Port Hub,Riyadh,SPL (Saudi Post),882,3,3,179.33,33.51,On-Time,0
+KSA-LOG-1007,NEOM Supply Hub,Khobar,SAL Express,470,2,2,75.53,5.17,On-Time,0
+KSA-LOG-1008,Dammam Logistics Gateway,Madinah,SAL Express,1062,3,3,203.79,37.53,On-Time,0
+KSA-LOG-1009,Dammam Logistics Gateway,Tabuk,SAL Express,586,2,2,173.7,40.73,On-Time,0
+KSA-LOG-1010,Jeddah Port Hub,Tabuk,Aramex KSA,930,3,3,188.12,35.49,On-Time,0
+KSA-LOG-1011,Madinah Distribution Center,Riyadh,Aramex KSA,1226,4,4,244.03,48.38,On-Time,0
+KSA-LOG-1012,NEOM Supply Hub,Jeddah,SMSA Express,875,3,3,198.55,41.42,On-Time,0
+KSA-LOG-1013,Jeddah Port Hub,Riyadh,SAL Express,180,1,4,152.4,45.2,Delayed - Warehouse,1
+KSA-LOG-1014,Jeddah Port Hub,NEOM,SMSA Express,486,2,5,180.66,46.71,Delayed - Customs,1
+KSA-LOG-1015,Jeddah Port Hub,Khobar,SMSA Express,332,1,1,151.99,40.17,On-Time,0
+KSA-LOG-1016,Riyadh Central Hub,Dammam,SMSA Express,1196,3,3,205.38,33.88,On-Time,0
+KSA-LOG-1017,Riyadh Central Hub,Jeddah,SPL (Saudi Post),693,2,3,82.39,0.78,Delayed - Weather,1
+KSA-LOG-1018,Riyadh Central Hub,Riyadh,SAL Express,1247,4,4,183.66,23.56,On-Time,0
+KSA-LOG-1019,Jeddah Port Hub,Madinah,Aramex KSA,1183,3,4,191.56,28.77,Delayed - Weather,1
+KSA-LOG-1020,Dammam Logistics Gateway,Jeddah,SMSA Express,809,3,5,128.6,15.55,Delayed - Traffic/Route,1
+KSA-LOG-1021,Jeddah Port Hub,Khobar,SMSA Express,309,1,1,90.34,16.25,On-Time,0
+KSA-LOG-1022,Jeddah Port Hub,Jeddah,Aramex KSA,1187,3,5,240.16,48.08,Delayed - Traffic/Route,1
+KSA-LOG-1023,Riyadh Central Hub,Khobar,Aramex KSA,1351,4,7,244.68,44.64,Delayed - Traffic/Route,1
+KSA-LOG-1024,Riyadh Central Hub,Riyadh,SPL (Saudi Post),561,2,2,176.2,42.53,On-Time,0
+KSA-LOG-1025,NEOM Supply Hub,Khobar,SAL Express,1161,3,3,169.38,20.6,On-Time,0
+KSA-LOG-1026,Jeddah Port Hub,Jeddah,SAL Express,202,1,1,44.11,1.18,On-Time,0
+KSA-LOG-1027,Riyadh Central Hub,Madinah,Aramex KSA,557,2,2,80.74,4.47,On-Time,0
+KSA-LOG-1028,Dammam Logistics Gateway,Tabuk,SMSA Express,996,3,3,144.56,15.95,On-Time,0
+KSA-LOG-1029,Jeddah Port Hub,Jeddah,SAL Express,1195,3,5,123.8,1.28,Delayed - Warehouse,1
+KSA-LOG-1030,Dammam Logistics Gateway,Khobar,SAL Express,1203,4,4,124.62,1.35,On-Time,0
+KSA-LOG-1031,Jeddah Port Hub,Tabuk,SAL Express,852,3,5,207.83,45.87,Delayed - Customs,1
+KSA-LOG-1032,Jeddah Port Hub,Khobar,SPL (Saudi Post),409,2,2,146.34,35.45,On-Time,0
+KSA-LOG-1033,Madinah Distribution Center,Madinah,SAL Express,1378,4,4,174.72,15.79,On-Time,0
+KSA-LOG-1034,Madinah Distribution Center,Khobar,SAL Express,1232,4,4,141.24,7.07,On-Time,0
+KSA-LOG-1035,NEOM Supply Hub,Riyadh,SAL Express,925,3,6,163.57,25.83,Delayed - Customs,1
+KSA-LOG-1036,Riyadh Central Hub,Dammam,SMSA Express,1185,3,3,121.7,0.76,On-Time,0
+KSA-LOG-1037,Jeddah Port Hub,Jeddah,SAL Express,999,3,5,222.3,46.95,Delayed - Weather,1
+KSA-LOG-1038,Dammam Logistics Gateway,Dammam,SMSA Express,503,2,4,117.82,21.03,Delayed - Customs,1
+KSA-LOG-1039,Riyadh Central Hub,Khobar,SAL Express,1248,4,4,175.89,20.42,On-Time,0
+KSA-LOG-1040,Jeddah Port Hub,Madinah,Aramex KSA,1022,3,6,156.34,19.83,Delayed - Customs,1
+KSA-LOG-1041,Riyadh Central Hub,Jeddah,SAL Express,1140,3,3,126.02,3.93,On-Time,0
+KSA-LOG-1042,Jeddah Port Hub,Khobar,SMSA Express,1167,3,6,198.61,32.1,Delayed - Customs,1
+KSA-LOG-1043,Madinah Distribution Center,Tabuk,SPL (Saudi Post),1327,4,4,223.11,36.78,On-Time,0
+KSA-LOG-1044,Jeddah Port Hub,NEOM,Aramex KSA,1269,4,4,211.44,33.97,On-Time,0
+KSA-LOG-1045,Dammam Logistics Gateway,Khobar,SMSA Express,443,2,2,78.82,7.35,On-Time,0
+KSA-LOG-1046,Riyadh Central Hub,Dammam,SAL Express,358,1,1,126.52,29.15,On-Time,0
+KSA-LOG-1047,Riyadh Central Hub,Jeddah,SAL Express,1261,4,4,197.6,28.69,On-Time,0
+KSA-LOG-1048,Riyadh Central Hub,Dammam,Aramex KSA,967,3,3,211.08,43.49,On-Time,0
+KSA-LOG-1049,Jeddah Port Hub,Jeddah,SPL (Saudi Post),539,2,2,116.3,19.27,On-Time,0
+KSA-LOG-1050,Madinah Distribution Center,Khobar,Aramex KSA,474,2,2,110.15,18.89,On-Time,0
+KSA-LOG-1051,NEOM Supply Hub,Riyadh,SMSA Express,1089,3,3,189.92,31.12,On-Time,0
+KSA-LOG-1052,Madinah Distribution Center,Tabuk,Aramex KSA,1038,3,3,187.64,31.84,On-Time,0
+KSA-LOG-1053,NEOM Supply Hub,Khobar,SMSA Express,1330,4,4,190.73,23.73,On-Time,0
+KSA-LOG-1054,Dammam Logistics Gateway,Dammam,SAL Express,817,3,3,146.44,22.43,On-Time,0
+KSA-LOG-1055,Madinah Distribution Center,NEOM,SMSA Express,782,2,2,149.96,24.96,On-Time,0
+KSA-LOG-1056,Jeddah Port Hub,NEOM,SPL (Saudi Post),726,2,2,190.88,43.12,On-Time,0
+KSA-LOG-1057,Jeddah Port Hub,Madinah,SAL Express,286,1,2,106.2,23.33,Delayed - Traffic/Route,1
+KSA-LOG-1058,Jeddah Port Hub,Jeddah,Aramex KSA,577,2,5,188.74,47.03,Delayed - Warehouse,1
+KSA-LOG-1059,Riyadh Central Hub,Dammam,SAL Express,761,2,2,149.5,25.45,On-Time,0
+KSA-LOG-1060,Riyadh Central Hub,Madinah,SMSA Express,1060,3,3,228.52,47.49,On-Time,0
+KSA-LOG-1061,Jeddah Port Hub,Dammam,SAL Express,968,3,3,206.76,41.73,On-Time,0
+KSA-LOG-1062,NEOM Supply Hub,Jeddah,SMSA Express,290,1,1,94.3,18.44,On-Time,0
+KSA-LOG-1063,Riyadh Central Hub,Khobar,Aramex KSA,1256,4,4,233.6,43.25,On-Time,0
+KSA-LOG-1064,Jeddah Port Hub,Khobar,SAL Express,326,1,2,65.96,5.95,Delayed - Weather,1
+KSA-LOG-1065,Riyadh Central Hub,NEOM,Aramex KSA,347,1,1,168.48,46.29,On-Time,0
+KSA-LOG-1066,Jeddah Port Hub,Khobar,Aramex KSA,773,2,2,166.26,31.77,On-Time,0
+KSA-LOG-1067,NEOM Supply Hub,Khobar,SPL (Saudi Post),840,3,3,100.18,3.19,On-Time,0
+KSA-LOG-1068,Jeddah Port Hub,Riyadh,SAL Express,550,2,2,149.98,32.39,On-Time,0
+KSA-LOG-1069,Madinah Distribution Center,NEOM,SMSA Express,620,2,2,196.42,48.73,On-Time,0
+KSA-LOG-1070,NEOM Supply Hub,Madinah,SAL Express,367,1,1,64.26,3.96,On-Time,0
+KSA-LOG-1071,Jeddah Port Hub,Tabuk,SPL (Saudi Post),1078,3,3,181.14,27.96,On-Time,0
+KSA-LOG-1072,Jeddah Port Hub,Riyadh,SPL (Saudi Post),781,2,2,181.28,37.52,On-Time,0
+KSA-LOG-1073,NEOM Supply Hub,Madinah,SMSA Express,1100,3,5,214.52,40.61,Delayed - Weather,1
+KSA-LOG-1074,Dammam Logistics Gateway,Jeddah,Aramex KSA,1055,3,3,161.85,20.98,On-Time,0
+KSA-LOG-1075,Dammam Logistics Gateway,Riyadh,SMSA Express,324,1,1,77.44,10.61,On-Time,0
+KSA-LOG-1076,NEOM Supply Hub,Madinah,Aramex KSA,172,1,1,45.26,2.6,On-Time,0
+KSA-LOG-1077,Jeddah Port Hub,Jeddah,SAL Express,384,1,4,128.72,29.2,Delayed - Customs,1
+KSA-LOG-1078,Riyadh Central Hub,NEOM,Aramex KSA,1186,3,3,177.18,22.92,On-Time,0
+KSA-LOG-1079,Jeddah Port Hub,Tabuk,SAL Express,1274,4,4,245.57,47.46,On-Time,0
+KSA-LOG-1080,NEOM Supply Hub,Jeddah,Aramex KSA,1078,3,3,119.99,3.5,On-Time,0
+KSA-LOG-1081,Dammam Logistics Gateway,Khobar,Aramex KSA,672,2,5,164.83,34.43,Delayed - Traffic/Route,1
+KSA-LOG-1082,Riyadh Central Hub,Dammam,Aramex KSA,580,2,2,75.75,1.74,On-Time,0
+KSA-LOG-1083,Jeddah Port Hub,Jeddah,SAL Express,942,3,3,122.84,8.99,On-Time,0
+KSA-LOG-1084,Riyadh Central Hub,Jeddah,SAL Express,682,2,2,136.94,22.95,On-Time,0
+KSA-LOG-1085,Riyadh Central Hub,Tabuk,SAL Express,1128,3,3,172.79,23.02,On-Time,0
+KSA-LOG-1086,Dammam Logistics Gateway,Dammam,SMSA Express,959,3,3,187.82,34.44,On-Time,0
+KSA-LOG-1087,Dammam Logistics Gateway,Khobar,SAL Express,1062,3,3,223.86,45.56,On-Time,0
+KSA-LOG-1088,NEOM Supply Hub,Madinah,SPL (Saudi Post),1274,4,4,207.24,32.13,On-Time,0
+KSA-LOG-1089,Riyadh Central Hub,Madinah,SMSA Express,1020,3,3,225.85,47.7,On-Time,0
+KSA-LOG-1090,Jeddah Port Hub,Jeddah,SAL Express,689,2,5,190.47,44.14,Delayed - Traffic/Route,1
+KSA-LOG-1091,Dammam Logistics Gateway,Dammam,SMSA Express,1173,3,3,192.42,29.43,On-Time,0
+KSA-LOG-1092,NEOM Supply Hub,Dammam,SMSA Express,376,1,1,159.5,41.77,On-Time,0
+KSA-LOG-1093,Dammam Logistics Gateway,Khobar,Aramex KSA,1022,3,5,187.54,32.31,Delayed - Traffic/Route,1
+KSA-LOG-1094,NEOM Supply Hub,Tabuk,SMSA Express,1041,3,3,119.26,4.39,On-Time,0
+KSA-LOG-1095,Riyadh Central Hub,NEOM,SPL (Saudi Post),1186,3,4,212.78,37.16,Delayed - Customs,1
+KSA-LOG-1096,Riyadh Central Hub,Madinah,SMSA Express,359,1,1,66.72,5.2,On-Time,0
+KSA-LOG-1097,Riyadh Central Hub,Tabuk,SPL (Saudi Post),890,3,3,170.98,29.91,On-Time,0
+KSA-LOG-1098,Jeddah Port Hub,Riyadh,SPL (Saudi Post),546,2,2,156.88,35.28,On-Time,0
+KSA-LOG-1099,Jeddah Port Hub,Madinah,SAL Express,1273,4,6,136.32,3.79,Delayed - Customs,1
+KSA-LOG-1100,Jeddah Port Hub,Tabuk,SPL (Saudi Post),180,1,1,69.2,11.92,On-Time,0
+KSA-LOG-1101,Dammam Logistics Gateway,Madinah,SAL Express,1047,3,5,223.33,45.83,Delayed - Customs,1
+KSA-LOG-1102,Riyadh Central Hub,NEOM,Aramex KSA,798,2,2,166.36,31.01,On-Time,0
+KSA-LOG-1103,Riyadh Central Hub,Riyadh,SMSA Express,478,2,2,94.96,12.69,On-Time,0
+KSA-LOG-1104,Madinah Distribution Center,NEOM,SPL (Saudi Post),1339,4,4,218.84,34.69,On-Time,0
+KSA-LOG-1105,Jeddah Port Hub,Khobar,SPL (Saudi Post),1101,3,3,188.18,30.04,On-Time,0
+KSA-LOG-1106,Riyadh Central Hub,Riyadh,Aramex KSA,1273,4,7,190.16,25.33,Delayed - Traffic/Route,1
+KSA-LOG-1107,NEOM Supply Hub,Jeddah,Aramex KSA,770,2,2,208.65,48.82,On-Time,0
+KSA-LOG-1108,Jeddah Port Hub,Tabuk,SAL Express,1346,4,4,218.5,34.33,On-Time,0
+KSA-LOG-1109,Jeddah Port Hub,Riyadh,SAL Express,311,1,1,97.58,19.08,On-Time,0
+KSA-LOG-1110,Jeddah Port Hub,Khobar,SMSA Express,925,3,4,199.25,40.1,Delayed - Warehouse,1
+KSA-LOG-1111,Jeddah Port Hub,Khobar,SAL Express,423,2,2,169.56,44.29,On-Time,0
+KSA-LOG-1112,Madinah Distribution Center,NEOM,Aramex KSA,1176,3,3,135.83,6.7,On-Time,0
+KSA-LOG-1113,NEOM Supply Hub,Madinah,SAL Express,1201,4,4,147.16,10.43,On-Time,0
+KSA-LOG-1114,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),475,2,2,91.0,11.2,On-Time,0
+KSA-LOG-1115,NEOM Supply Hub,Tabuk,Aramex KSA,1089,3,3,198.9,34.71,On-Time,0
+KSA-LOG-1116,NEOM Supply Hub,Riyadh,Aramex KSA,1322,4,4,206.64,30.35,On-Time,0
+KSA-LOG-1117,Jeddah Port Hub,Dammam,SAL Express,689,2,4,157.97,31.14,Delayed - Warehouse,1
+KSA-LOG-1118,NEOM Supply Hub,Madinah,SPL (Saudi Post),637,2,2,193.64,47.07,On-Time,0
+KSA-LOG-1119,Riyadh Central Hub,Tabuk,SPL (Saudi Post),971,3,6,199.96,38.91,Delayed - Weather,1
+KSA-LOG-1120,NEOM Supply Hub,Tabuk,SMSA Express,1238,4,6,141.12,6.83,Delayed - Traffic/Route,1
+KSA-LOG-1121,NEOM Supply Hub,Jeddah,Aramex KSA,505,2,2,109.65,17.7,On-Time,0
+KSA-LOG-1122,Riyadh Central Hub,NEOM,Aramex KSA,384,1,3,110.84,22.05,Delayed - Warehouse,1
+KSA-LOG-1123,Jeddah Port Hub,Jeddah,SAL Express,376,1,4,105.33,20.1,Delayed - Customs,1
+KSA-LOG-1124,Jeddah Port Hub,Tabuk,SMSA Express,198,1,1,124.92,33.63,On-Time,0
+KSA-LOG-1125,Riyadh Central Hub,Madinah,SMSA Express,267,1,1,157.99,44.65,On-Time,0
+KSA-LOG-1126,NEOM Supply Hub,Riyadh,SAL Express,203,1,4,80.37,15.65,Delayed - Customs,1
+KSA-LOG-1127,NEOM Supply Hub,Riyadh,SMSA Express,714,2,2,151.67,27.82,On-Time,0
+KSA-LOG-1128,Jeddah Port Hub,Madinah,SAL Express,1217,4,4,221.31,39.58,On-Time,0
+KSA-LOG-1129,Riyadh Central Hub,Tabuk,SAL Express,202,1,1,93.91,21.1,On-Time,0
+KSA-LOG-1130,Riyadh Central Hub,Khobar,SAL Express,707,2,2,103.61,8.82,On-Time,0
+KSA-LOG-1131,Jeddah Port Hub,Riyadh,SPL (Saudi Post),1275,4,5,187.02,24.01,Delayed - Warehouse,1
+KSA-LOG-1132,Jeddah Port Hub,Khobar,SMSA Express,1017,3,3,114.44,3.23,On-Time,0
+KSA-LOG-1133,Riyadh Central Hub,Riyadh,SPL (Saudi Post),547,2,2,186.64,47.15,On-Time,0
+KSA-LOG-1134,Madinah Distribution Center,Riyadh,SMSA Express,1311,4,4,140.38,4.2,On-Time,0
+KSA-LOG-1135,Riyadh Central Hub,NEOM,SAL Express,824,3,3,146.42,22.2,On-Time,0
+KSA-LOG-1136,Riyadh Central Hub,NEOM,SMSA Express,536,2,2,134.7,26.73,On-Time,0
+KSA-LOG-1137,Dammam Logistics Gateway,Dammam,SMSA Express,260,1,3,168.98,49.27,Delayed - Customs,1
+KSA-LOG-1138,Riyadh Central Hub,Jeddah,SAL Express,763,2,2,107.84,8.72,On-Time,0
+KSA-LOG-1139,Madinah Distribution Center,Madinah,Aramex KSA,166,1,1,53.68,6.16,On-Time,0
+KSA-LOG-1140,Madinah Distribution Center,Madinah,SAL Express,1355,4,7,135.72,0.93,Delayed - Warehouse,1
+KSA-LOG-1141,Jeddah Port Hub,Madinah,Aramex KSA,1033,3,6,128.14,8.2,Delayed - Warehouse,1
+KSA-LOG-1142,Riyadh Central Hub,Dammam,Aramex KSA,690,2,2,107.1,10.76,On-Time,0
+KSA-LOG-1143,Riyadh Central Hub,NEOM,SAL Express,320,1,1,129.88,31.71,On-Time,0
+KSA-LOG-1144,Jeddah Port Hub,Tabuk,SAL Express,558,2,2,98.09,11.38,On-Time,0
+KSA-LOG-1145,Jeddah Port Hub,Khobar,Aramex KSA,889,3,3,99.92,1.52,On-Time,0
+KSA-LOG-1146,Dammam Logistics Gateway,Khobar,SMSA Express,1361,4,4,237.43,41.42,On-Time,0
+KSA-LOG-1147,Riyadh Central Hub,Tabuk,SAL Express,1007,3,4,152.06,18.6,Delayed - Traffic/Route,1
+KSA-LOG-1148,Jeddah Port Hub,Dammam,SPL (Saudi Post),379,1,1,100.34,18.01,On-Time,0
+KSA-LOG-1149,Jeddah Port Hub,Tabuk,SAL Express,268,1,2,85.12,15.47,Delayed - Warehouse,1
+KSA-LOG-1150,Madinah Distribution Center,Madinah,Aramex KSA,1329,4,4,253.27,48.78,On-Time,0
+KSA-LOG-1151,Jeddah Port Hub,Jeddah,SPL (Saudi Post),933,3,3,121.94,8.92,On-Time,0
+KSA-LOG-1152,Jeddah Port Hub,Riyadh,SAL Express,614,2,2,186.52,44.96,On-Time,0
+KSA-LOG-1153,Riyadh Central Hub,Khobar,SAL Express,253,1,1,142.62,38.95,On-Time,0
+KSA-LOG-1154,Madinah Distribution Center,NEOM,SAL Express,847,3,6,103.48,4.29,Delayed - Traffic/Route,1
+KSA-LOG-1155,Jeddah Port Hub,NEOM,SAL Express,324,1,1,174.27,49.34,On-Time,0
+KSA-LOG-1156,Dammam Logistics Gateway,Dammam,SAL Express,894,3,3,131.34,13.93,On-Time,0
+KSA-LOG-1157,NEOM Supply Hub,NEOM,Aramex KSA,1307,4,4,143.01,5.38,On-Time,0
+KSA-LOG-1158,Jeddah Port Hub,Madinah,SAL Express,814,3,3,194.0,41.55,On-Time,0
+KSA-LOG-1159,Dammam Logistics Gateway,Khobar,SMSA Express,182,1,2,128.26,35.48,Delayed - Traffic/Route,1
+KSA-LOG-1160,Riyadh Central Hub,Tabuk,SPL (Saudi Post),204,1,1,118.94,31.05,On-Time,0
+KSA-LOG-1161,Dammam Logistics Gateway,Madinah,Aramex KSA,668,2,5,98.99,8.22,Delayed - Customs,1
+KSA-LOG-1162,Dammam Logistics Gateway,Dammam,Aramex KSA,905,3,5,157.88,24.19,Delayed - Customs,1
+KSA-LOG-1163,Riyadh Central Hub,Madinah,SAL Express,161,1,1,135.73,39.14,On-Time,0
+KSA-LOG-1164,Jeddah Port Hub,Tabuk,Aramex KSA,869,3,3,133.34,15.53,On-Time,0
+KSA-LOG-1165,NEOM Supply Hub,Jeddah,SMSA Express,704,2,2,121.14,15.93,On-Time,0
+KSA-LOG-1166,Riyadh Central Hub,Dammam,SMSA Express,522,2,2,68.41,0.66,On-Time,0
+KSA-LOG-1167,Jeddah Port Hub,Jeddah,SAL Express,633,2,2,98.46,9.13,On-Time,0
+KSA-LOG-1168,Jeddah Port Hub,Riyadh,SPL (Saudi Post),1122,3,3,224.33,43.83,On-Time,0
+KSA-LOG-1169,Dammam Logistics Gateway,Jeddah,SMSA Express,772,2,3,142.68,22.37,Delayed - Customs,1
+KSA-LOG-1170,Dammam Logistics Gateway,Riyadh,SAL Express,456,2,2,184.53,49.22,On-Time,0
+KSA-LOG-1171,Jeddah Port Hub,Riyadh,SMSA Express,606,2,4,123.71,20.09,Delayed - Traffic/Route,1
+KSA-LOG-1172,Riyadh Central Hub,Jeddah,SMSA Express,309,1,3,139.47,35.9,Delayed - Customs,1
+KSA-LOG-1173,Jeddah Port Hub,Dammam,Aramex KSA,480,2,2,99.52,14.45,On-Time,0
+KSA-LOG-1174,Dammam Logistics Gateway,Tabuk,Aramex KSA,925,3,5,145.28,18.51,Delayed - Customs,1
+KSA-LOG-1175,Jeddah Port Hub,Madinah,Aramex KSA,374,1,4,79.77,9.94,Delayed - Customs,1
+KSA-LOG-1176,Dammam Logistics Gateway,Madinah,SAL Express,1132,3,5,159.76,17.68,Delayed - Traffic/Route,1
+KSA-LOG-1177,Riyadh Central Hub,Tabuk,SMSA Express,878,3,5,164.21,27.59,Delayed - Warehouse,1
+KSA-LOG-1178,Madinah Distribution Center,Khobar,SMSA Express,1218,4,4,246.42,49.59,On-Time,0
+KSA-LOG-1179,Jeddah Port Hub,Khobar,SAL Express,1387,4,6,219.41,33.38,Delayed - Warehouse,1
+KSA-LOG-1180,Riyadh Central Hub,Riyadh,SAL Express,1232,4,4,149.46,10.36,On-Time,0
+KSA-LOG-1181,Jeddah Port Hub,Riyadh,Aramex KSA,793,2,2,95.26,2.73,On-Time,0
+KSA-LOG-1182,Madinah Distribution Center,Dammam,SAL Express,765,2,2,103.08,6.75,On-Time,0
+KSA-LOG-1183,NEOM Supply Hub,NEOM,SMSA Express,344,1,1,123.4,28.35,On-Time,0
+KSA-LOG-1184,Jeddah Port Hub,Jeddah,SAL Express,638,2,5,171.99,38.38,Delayed - Weather,1
+KSA-LOG-1185,Dammam Logistics Gateway,Riyadh,SAL Express,306,1,1,167.1,47.05,On-Time,0
+KSA-LOG-1186,NEOM Supply Hub,Madinah,SAL Express,759,2,2,88.92,1.28,On-Time,0
+KSA-LOG-1187,Dammam Logistics Gateway,Dammam,SPL (Saudi Post),1399,4,4,202.87,26.38,On-Time,0
+KSA-LOG-1188,Riyadh Central Hub,Jeddah,Aramex KSA,561,2,2,129.4,23.81,On-Time,0
+KSA-LOG-1189,Jeddah Port Hub,Dammam,SPL (Saudi Post),1378,4,4,217.67,32.97,On-Time,0
+KSA-LOG-1190,Jeddah Port Hub,Jeddah,SMSA Express,1252,4,6,195.66,28.2,Delayed - Warehouse,1
+KSA-LOG-1191,NEOM Supply Hub,Jeddah,SAL Express,1297,4,4,215.03,34.51,On-Time,0
+KSA-LOG-1192,Madinah Distribution Center,Tabuk,SMSA Express,620,2,2,157.3,33.08,On-Time,0
+KSA-LOG-1193,Dammam Logistics Gateway,Riyadh,SMSA Express,1391,4,4,152.0,6.29,On-Time,0
+KSA-LOG-1194,Riyadh Central Hub,Dammam,Aramex KSA,665,2,4,178.42,40.09,Delayed - Traffic/Route,1
+KSA-LOG-1195,Riyadh Central Hub,Dammam,SAL Express,1277,4,5,143.66,6.6,Delayed - Weather,1
+KSA-LOG-1196,Dammam Logistics Gateway,Tabuk,SMSA Express,542,2,5,156.06,35.08,Delayed - Traffic/Route,1
+KSA-LOG-1197,NEOM Supply Hub,Madinah,SAL Express,780,2,4,140.15,21.1,Delayed - Customs,1
+KSA-LOG-1198,NEOM Supply Hub,Madinah,SAL Express,757,2,2,150.41,25.94,On-Time,0
+KSA-LOG-1199,NEOM Supply Hub,Khobar,Aramex KSA,1129,3,3,228.35,45.21,On-Time,0
+KSA-LOG-1200,Dammam Logistics Gateway,Riyadh,SMSA Express,583,2,2,183.02,44.55,On-Time,0
+KSA-LOG-1201,Jeddah Port Hub,Riyadh,SMSA Express,1316,4,4,232.73,40.98,On-Time,0
+KSA-LOG-1202,Jeddah Port Hub,NEOM,SMSA Express,689,2,2,144.5,25.75,On-Time,0
+KSA-LOG-1203,NEOM Supply Hub,Tabuk,SMSA Express,427,2,2,151.51,36.94,On-Time,0
+KSA-LOG-1204,Dammam Logistics Gateway,Madinah,Aramex KSA,382,1,2,120.28,25.89,Delayed - Warehouse,1
+KSA-LOG-1205,Jeddah Port Hub,Jeddah,SPL (Saudi Post),1263,4,7,234.92,43.55,Delayed - Customs,1
+KSA-LOG-1206,Jeddah Port Hub,Dammam,SPL (Saudi Post),1372,4,4,185.86,20.44,On-Time,0
+KSA-LOG-1207,Dammam Logistics Gateway,Riyadh,Aramex KSA,511,2,2,187.2,48.53,On-Time,0
+KSA-LOG-1208,Jeddah Port Hub,Dammam,SAL Express,175,1,1,155.62,46.65,On-Time,0
+KSA-LOG-1209,Jeddah Port Hub,Dammam,Aramex KSA,1198,3,6,213.86,37.21,Delayed - Weather,1
+KSA-LOG-1210,Riyadh Central Hub,NEOM,SMSA Express,656,2,2,113.3,14.33,On-Time,0
+KSA-LOG-1211,Dammam Logistics Gateway,Madinah,SAL Express,416,2,2,75.83,7.02,On-Time,0
+KSA-LOG-1212,Dammam Logistics Gateway,Riyadh,Aramex KSA,610,2,2,180.82,42.81,On-Time,0
+KSA-LOG-1213,Jeddah Port Hub,Dammam,SAL Express,605,2,2,95.1,8.68,On-Time,0
+KSA-LOG-1214,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),1241,4,4,231.26,42.79,On-Time,0
+KSA-LOG-1215,Jeddah Port Hub,Jeddah,SMSA Express,1156,3,3,179.46,24.79,On-Time,0
+KSA-LOG-1216,Riyadh Central Hub,NEOM,Aramex KSA,1012,3,3,157.51,20.62,On-Time,0
+KSA-LOG-1217,Dammam Logistics Gateway,Jeddah,Aramex KSA,640,2,5,189.23,45.21,Delayed - Traffic/Route,1
+KSA-LOG-1218,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),1222,4,4,198.74,30.39,On-Time,0
+KSA-LOG-1219,NEOM Supply Hub,Khobar,Aramex KSA,713,2,2,154.64,29.04,On-Time,0
+KSA-LOG-1220,Dammam Logistics Gateway,Riyadh,Aramex KSA,1275,4,7,197.4,28.16,Delayed - Customs,1
+KSA-LOG-1221,Dammam Logistics Gateway,Madinah,SAL Express,365,1,1,101.38,18.87,On-Time,0
+KSA-LOG-1222,Jeddah Port Hub,Dammam,SMSA Express,708,2,2,180.12,39.39,On-Time,0
+KSA-LOG-1223,Riyadh Central Hub,Dammam,SAL Express,308,1,1,82.16,13.01,On-Time,0
+KSA-LOG-1224,Jeddah Port Hub,Jeddah,Aramex KSA,638,2,2,193.49,46.98,On-Time,0
+KSA-LOG-1225,Jeddah Port Hub,NEOM,SMSA Express,835,3,6,203.68,44.75,Delayed - Customs,1
+KSA-LOG-1226,Madinah Distribution Center,Khobar,Aramex KSA,943,3,3,143.46,17.21,On-Time,0
+KSA-LOG-1227,Riyadh Central Hub,Tabuk,SAL Express,154,1,1,128.84,36.61,On-Time,0
+KSA-LOG-1228,NEOM Supply Hub,Dammam,SAL Express,510,2,2,137.98,28.87,On-Time,0
+KSA-LOG-1229,Dammam Logistics Gateway,Madinah,Aramex KSA,608,2,2,116.66,17.21,On-Time,0
+KSA-LOG-1230,NEOM Supply Hub,Jeddah,SAL Express,397,1,1,180.34,49.43,On-Time,0
+KSA-LOG-1231,Riyadh Central Hub,Jeddah,SAL Express,1095,3,3,116.98,1.75,On-Time,0
+KSA-LOG-1232,Dammam Logistics Gateway,Tabuk,SAL Express,571,2,5,103.21,13.01,Delayed - Traffic/Route,1
+KSA-LOG-1233,Riyadh Central Hub,Madinah,SPL (Saudi Post),164,1,1,103.72,26.24,On-Time,0
+KSA-LOG-1234,Jeddah Port Hub,NEOM,Aramex KSA,885,3,5,161.65,26.34,Delayed - Customs,1
+KSA-LOG-1235,Dammam Logistics Gateway,Madinah,SMSA Express,1295,4,4,202.73,29.65,On-Time,0
+KSA-LOG-1236,Jeddah Port Hub,NEOM,SAL Express,426,2,2,153.36,37.71,On-Time,0
+KSA-LOG-1237,Jeddah Port Hub,Madinah,SAL Express,602,2,4,151.56,31.36,Delayed - Traffic/Route,1
+KSA-LOG-1238,Dammam Logistics Gateway,Madinah,Aramex KSA,747,2,2,160.28,30.21,On-Time,0
+KSA-LOG-1239,Jeddah Port Hub,Riyadh,Aramex KSA,595,2,4,80.47,3.15,Delayed - Weather,1
+KSA-LOG-1240,Madinah Distribution Center,Jeddah,SAL Express,359,1,1,101.57,19.14,On-Time,0
+KSA-LOG-1241,Madinah Distribution Center,Madinah,SAL Express,863,3,3,124.02,11.99,On-Time,0
+KSA-LOG-1242,Madinah Distribution Center,Tabuk,SAL Express,451,2,4,95.18,13.64,Delayed - Traffic/Route,1
+KSA-LOG-1243,Riyadh Central Hub,Madinah,Aramex KSA,1396,4,5,206.53,27.94,Delayed - Traffic/Route,1
+KSA-LOG-1244,Jeddah Port Hub,Dammam,Aramex KSA,152,1,3,63.11,10.38,Delayed - Weather,1
+KSA-LOG-1245,Madinah Distribution Center,Jeddah,SAL Express,1139,3,3,153.74,15.05,On-Time,0
+KSA-LOG-1246,Riyadh Central Hub,Dammam,SAL Express,1266,4,7,156.88,12.24,Delayed - Traffic/Route,1
+KSA-LOG-1247,Madinah Distribution Center,Jeddah,SAL Express,669,2,2,197.14,47.45,On-Time,0
+KSA-LOG-1248,Madinah Distribution Center,Dammam,SPL (Saudi Post),642,2,2,194.51,47.26,On-Time,0
+KSA-LOG-1249,NEOM Supply Hub,Madinah,SAL Express,769,2,2,163.24,30.69,On-Time,0
+KSA-LOG-1250,Jeddah Port Hub,Madinah,Aramex KSA,1334,4,4,247.37,46.26,On-Time,0
+KSA-LOG-1251,Riyadh Central Hub,Riyadh,Aramex KSA,480,2,2,161.9,39.4,On-Time,0
+KSA-LOG-1252,NEOM Supply Hub,Tabuk,SMSA Express,482,2,2,137.81,29.7,On-Time,0
+KSA-LOG-1253,Riyadh Central Hub,Dammam,SAL Express,199,1,1,42.97,0.82,On-Time,0
+KSA-LOG-1254,Jeddah Port Hub,NEOM,SAL Express,1012,3,3,202.81,38.74,On-Time,0
+KSA-LOG-1255,Dammam Logistics Gateway,Riyadh,Aramex KSA,421,2,2,146.86,35.27,On-Time,0
+KSA-LOG-1256,Madinah Distribution Center,Dammam,Aramex KSA,729,2,4,160.72,30.96,Delayed - Traffic/Route,1
+KSA-LOG-1257,Dammam Logistics Gateway,Dammam,Aramex KSA,709,2,2,177.07,38.14,On-Time,0
+KSA-LOG-1258,Dammam Logistics Gateway,Riyadh,SMSA Express,845,3,3,157.32,25.89,On-Time,0
+KSA-LOG-1259,Jeddah Port Hub,Madinah,SAL Express,1263,4,4,214.42,35.35,On-Time,0
+KSA-LOG-1260,Dammam Logistics Gateway,Dammam,SPL (Saudi Post),595,2,4,189.58,46.79,Delayed - Traffic/Route,1
+KSA-LOG-1261,Madinah Distribution Center,Madinah,Aramex KSA,1166,3,3,166.03,19.1,On-Time,0
+KSA-LOG-1262,Jeddah Port Hub,Riyadh,SAL Express,1312,4,4,218.84,35.55,On-Time,0
+KSA-LOG-1263,Riyadh Central Hub,Madinah,SPL (Saudi Post),506,2,2,125.6,24.05,On-Time,0
+KSA-LOG-1264,NEOM Supply Hub,Jeddah,Aramex KSA,423,2,5,143.54,33.88,Delayed - Traffic/Route,1
+KSA-LOG-1265,Dammam Logistics Gateway,NEOM,SMSA Express,1192,3,5,216.01,38.26,Delayed - Warehouse,1
+KSA-LOG-1266,Dammam Logistics Gateway,Khobar,Aramex KSA,460,2,2,68.68,2.75,On-Time,0
+KSA-LOG-1267,Dammam Logistics Gateway,Dammam,Aramex KSA,1019,3,3,187.8,32.51,On-Time,0
+KSA-LOG-1268,Riyadh Central Hub,Tabuk,Aramex KSA,1035,3,3,137.1,11.72,On-Time,0
+KSA-LOG-1269,Jeddah Port Hub,NEOM,SAL Express,303,1,1,133.42,33.67,On-Time,0
+KSA-LOG-1270,NEOM Supply Hub,Khobar,SAL Express,769,2,2,145.72,23.68,On-Time,0
+KSA-LOG-1271,NEOM Supply Hub,Madinah,SPL (Saudi Post),1032,3,3,204.54,38.79,On-Time,0
+KSA-LOG-1272,NEOM Supply Hub,Dammam,SAL Express,946,3,3,117.21,6.61,On-Time,0
+KSA-LOG-1273,Madinah Distribution Center,Madinah,SMSA Express,274,1,1,125.67,31.5,On-Time,0
+KSA-LOG-1274,Riyadh Central Hub,Jeddah,SMSA Express,768,2,2,122.14,14.28,On-Time,0
+KSA-LOG-1275,Riyadh Central Hub,Riyadh,SMSA Express,394,1,1,163.32,42.72,On-Time,0
+KSA-LOG-1276,NEOM Supply Hub,Dammam,Aramex KSA,997,3,3,220.88,46.45,On-Time,0
+KSA-LOG-1277,Dammam Logistics Gateway,Khobar,SPL (Saudi Post),599,2,2,197.47,49.82,On-Time,0
+KSA-LOG-1278,Dammam Logistics Gateway,Khobar,SAL Express,1079,3,3,211.07,39.9,On-Time,0
+KSA-LOG-1279,NEOM Supply Hub,Jeddah,SAL Express,669,2,2,173.04,37.81,On-Time,0
+KSA-LOG-1280,NEOM Supply Hub,Jeddah,SAL Express,1314,4,4,158.05,11.17,On-Time,0
+KSA-LOG-1281,Riyadh Central Hub,Dammam,SPL (Saudi Post),511,2,4,108.7,17.13,Delayed - Customs,1
+KSA-LOG-1282,Riyadh Central Hub,Madinah,Aramex KSA,157,1,1,96.44,23.55,On-Time,0
+KSA-LOG-1283,Jeddah Port Hub,Tabuk,SAL Express,627,2,4,172.11,38.78,Delayed - Weather,1
+KSA-LOG-1284,Dammam Logistics Gateway,Khobar,Aramex KSA,644,2,2,191.0,45.79,On-Time,0
+KSA-LOG-1285,Jeddah Port Hub,Khobar,SPL (Saudi Post),982,3,3,128.21,9.86,On-Time,0
+KSA-LOG-1286,Riyadh Central Hub,Jeddah,Aramex KSA,1212,4,4,237.36,46.16,On-Time,0
+KSA-LOG-1287,Riyadh Central Hub,NEOM,SPL (Saudi Post),742,2,3,171.68,34.93,Delayed - Warehouse,1
+KSA-LOG-1288,Jeddah Port Hub,Jeddah,SAL Express,336,1,1,128.7,30.73,On-Time,0
+KSA-LOG-1289,Dammam Logistics Gateway,Tabuk,Aramex KSA,903,3,3,123.22,10.39,On-Time,0
+KSA-LOG-1290,Jeddah Port Hub,Madinah,SMSA Express,242,1,3,52.48,3.25,Delayed - Customs,1
+KSA-LOG-1291,Jeddah Port Hub,Madinah,Aramex KSA,235,1,1,115.4,28.64,On-Time,0
+KSA-LOG-1292,NEOM Supply Hub,NEOM,Aramex KSA,1217,4,4,204.24,32.75,On-Time,0
+KSA-LOG-1293,Riyadh Central Hub,Khobar,Aramex KSA,286,1,1,75.2,10.93,On-Time,0
+KSA-LOG-1294,Jeddah Port Hub,Jeddah,Aramex KSA,570,2,5,140.7,28.04,Delayed - Customs,1
+KSA-LOG-1295,Riyadh Central Hub,Madinah,SAL Express,223,1,1,150.09,42.9,On-Time,0
+KSA-LOG-1296,NEOM Supply Hub,Tabuk,SMSA Express,1329,4,4,235.92,41.84,On-Time,0
+KSA-LOG-1297,Jeddah Port Hub,Dammam,SPL (Saudi Post),320,1,1,166.6,46.4,On-Time,0
+KSA-LOG-1298,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),319,1,1,97.04,18.61,On-Time,0
+KSA-LOG-1299,Jeddah Port Hub,Riyadh,SAL Express,1021,3,6,147.28,16.24,Delayed - Weather,1
+KSA-LOG-1300,Jeddah Port Hub,Riyadh,SAL Express,471,2,4,156.68,37.6,Delayed - Customs,1
+KSA-LOG-1301,Riyadh Central Hub,Khobar,SAL Express,605,2,2,128.0,21.84,On-Time,0
+KSA-LOG-1302,Riyadh Central Hub,Jeddah,Aramex KSA,1093,3,3,124.52,4.83,On-Time,0
+KSA-LOG-1303,Dammam Logistics Gateway,NEOM,Aramex KSA,939,3,5,136.37,14.5,Delayed - Customs,1
+KSA-LOG-1304,Dammam Logistics Gateway,Madinah,SAL Express,762,2,4,139.01,21.22,Delayed - Warehouse,1
+KSA-LOG-1305,Madinah Distribution Center,Dammam,SMSA Express,1328,4,4,168.69,14.98,On-Time,0
+KSA-LOG-1306,Riyadh Central Hub,Tabuk,Aramex KSA,1038,3,6,150.39,16.94,Delayed - Weather,1
+KSA-LOG-1307,Riyadh Central Hub,Dammam,Aramex KSA,498,2,5,102.44,15.04,Delayed - Customs,1
+KSA-LOG-1308,NEOM Supply Hub,Tabuk,SMSA Express,1346,4,4,139.06,2.55,On-Time,0
+KSA-LOG-1309,Jeddah Port Hub,Khobar,SMSA Express,159,1,2,117.82,32.04,Delayed - Warehouse,1
+KSA-LOG-1310,Riyadh Central Hub,Jeddah,SMSA Express,889,3,3,171.3,30.07,On-Time,0
+KSA-LOG-1311,Jeddah Port Hub,Riyadh,SAL Express,816,3,3,172.38,32.84,On-Time,0
+KSA-LOG-1312,Jeddah Port Hub,Jeddah,SMSA Express,695,2,2,105.65,10.02,On-Time,0
+KSA-LOG-1313,Madinah Distribution Center,Khobar,Aramex KSA,278,1,1,85.06,15.13,On-Time,0
+KSA-LOG-1314,NEOM Supply Hub,NEOM,SPL (Saudi Post),750,2,2,162.93,31.17,On-Time,0
+KSA-LOG-1315,Dammam Logistics Gateway,NEOM,Aramex KSA,754,2,2,160.77,30.18,On-Time,0
+KSA-LOG-1316,Riyadh Central Hub,Khobar,Aramex KSA,476,2,2,126.98,25.56,On-Time,0
+KSA-LOG-1317,Jeddah Port Hub,Tabuk,SAL Express,1129,3,3,159.94,17.85,On-Time,0
+KSA-LOG-1318,Jeddah Port Hub,Madinah,SMSA Express,553,2,2,183.46,45.69,On-Time,0
+KSA-LOG-1319,Jeddah Port Hub,Madinah,SAL Express,778,2,2,130.54,17.32,On-Time,0
+KSA-LOG-1320,Riyadh Central Hub,Tabuk,SAL Express,867,3,3,151.99,23.05,On-Time,0
+KSA-LOG-1321,Dammam Logistics Gateway,NEOM,Aramex KSA,1190,3,4,205.38,34.07,Delayed - Warehouse,1
+KSA-LOG-1322,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),423,2,3,127.29,27.38,Delayed - Weather,1
+KSA-LOG-1323,Jeddah Port Hub,NEOM,SAL Express,834,3,6,135.9,17.67,Delayed - Customs,1
+KSA-LOG-1324,Madinah Distribution Center,Jeddah,SMSA Express,265,1,1,101.35,22.06,On-Time,0
+KSA-LOG-1325,Dammam Logistics Gateway,NEOM,Aramex KSA,1010,3,3,205.38,39.83,On-Time,0
+KSA-LOG-1326,Dammam Logistics Gateway,Dammam,SAL Express,842,3,3,128.04,14.27,On-Time,0
+KSA-LOG-1327,Dammam Logistics Gateway,Riyadh,SMSA Express,1264,4,5,144.97,7.54,Delayed - Warehouse,1
+KSA-LOG-1328,Riyadh Central Hub,NEOM,Aramex KSA,1255,4,4,165.4,16.0,On-Time,0
+KSA-LOG-1329,Jeddah Port Hub,Tabuk,Aramex KSA,473,2,2,169.22,42.55,On-Time,0
+KSA-LOG-1330,Riyadh Central Hub,Riyadh,SAL Express,1110,3,5,126.05,4.9,Delayed - Traffic/Route,1
+KSA-LOG-1331,NEOM Supply Hub,Jeddah,SMSA Express,263,1,1,170.02,49.59,On-Time,0
+KSA-LOG-1332,Jeddah Port Hub,Tabuk,Aramex KSA,1231,4,4,191.68,27.28,On-Time,0
+KSA-LOG-1333,Jeddah Port Hub,Riyadh,SMSA Express,303,1,1,172.36,49.25,On-Time,0
+KSA-LOG-1334,Jeddah Port Hub,Tabuk,SAL Express,464,2,2,179.57,46.98,On-Time,0
+KSA-LOG-1335,Jeddah Port Hub,Jeddah,Aramex KSA,1214,4,6,179.4,22.91,Delayed - Traffic/Route,1
+KSA-LOG-1336,NEOM Supply Hub,Dammam,SAL Express,254,1,1,71.14,10.33,On-Time,0
+KSA-LOG-1337,Dammam Logistics Gateway,Jeddah,Aramex KSA,1366,4,4,155.93,8.66,On-Time,0
+KSA-LOG-1338,Riyadh Central Hub,Jeddah,SAL Express,503,2,2,96.19,12.38,On-Time,0
+KSA-LOG-1339,Jeddah Port Hub,Tabuk,SPL (Saudi Post),1165,3,3,207.32,35.65,On-Time,0
+KSA-LOG-1340,Riyadh Central Hub,Khobar,SMSA Express,882,3,3,130.58,14.01,On-Time,0
+KSA-LOG-1341,Riyadh Central Hub,Madinah,SAL Express,858,3,3,137.14,17.4,On-Time,0
+KSA-LOG-1342,Jeddah Port Hub,NEOM,SAL Express,800,2,2,145.78,22.71,On-Time,0
+KSA-LOG-1343,Riyadh Central Hub,NEOM,SAL Express,973,3,3,217.12,45.71,On-Time,0
+KSA-LOG-1344,Riyadh Central Hub,Dammam,SPL (Saudi Post),1096,3,3,137.36,9.87,On-Time,0
+KSA-LOG-1345,Dammam Logistics Gateway,Dammam,SPL (Saudi Post),810,3,3,91.68,0.75,On-Time,0
+KSA-LOG-1346,Dammam Logistics Gateway,NEOM,SMSA Express,248,1,4,53.52,3.47,Delayed - Warehouse,1
+KSA-LOG-1347,Jeddah Port Hub,Madinah,SMSA Express,737,2,3,197.18,45.29,Delayed - Traffic/Route,1
+KSA-LOG-1348,Riyadh Central Hub,NEOM,Aramex KSA,431,2,4,140.86,32.55,Delayed - Customs,1
+KSA-LOG-1349,Dammam Logistics Gateway,Khobar,SPL (Saudi Post),552,2,2,104.21,14.02,On-Time,0
+KSA-LOG-1350,Riyadh Central Hub,Madinah,SMSA Express,1282,4,4,150.74,9.27,On-Time,0
+KSA-LOG-1351,NEOM Supply Hub,Dammam,SMSA Express,849,3,3,130.6,15.07,On-Time,0
+KSA-LOG-1352,Dammam Logistics Gateway,Riyadh,SMSA Express,348,1,1,68.29,6.18,On-Time,0
+KSA-LOG-1353,Jeddah Port Hub,Tabuk,Aramex KSA,476,2,2,180.86,47.11,On-Time,0
+KSA-LOG-1354,Jeddah Port Hub,Khobar,SAL Express,303,1,4,147.54,39.32,Delayed - Traffic/Route,1
+KSA-LOG-1355,Dammam Logistics Gateway,Khobar,Aramex KSA,701,2,3,139.56,23.39,Delayed - Customs,1
+KSA-LOG-1356,Jeddah Port Hub,Dammam,SMSA Express,554,2,2,177.62,43.32,On-Time,0
+KSA-LOG-1357,Dammam Logistics Gateway,Dammam,Aramex KSA,611,2,4,106.0,12.85,Delayed - Traffic/Route,1
+KSA-LOG-1358,Madinah Distribution Center,Jeddah,SAL Express,281,1,1,137.48,36.0,On-Time,0
+KSA-LOG-1359,Dammam Logistics Gateway,Khobar,SMSA Express,940,3,4,207.4,42.88,Delayed - Traffic/Route,1
+KSA-LOG-1360,Riyadh Central Hub,Jeddah,SMSA Express,1023,3,3,152.24,18.16,On-Time,0
+KSA-LOG-1361,Dammam Logistics Gateway,Jeddah,Aramex KSA,233,1,1,138.62,37.99,On-Time,0
+KSA-LOG-1362,Riyadh Central Hub,Tabuk,SAL Express,903,3,3,135.01,15.11,On-Time,0
+KSA-LOG-1363,Riyadh Central Hub,Jeddah,SMSA Express,777,2,2,125.38,15.29,On-Time,0
+KSA-LOG-1364,Madinah Distribution Center,Madinah,SMSA Express,1282,4,4,142.06,5.8,On-Time,0
+KSA-LOG-1365,Riyadh Central Hub,NEOM,SMSA Express,370,1,1,110.3,22.28,On-Time,0
+KSA-LOG-1366,Madinah Distribution Center,Riyadh,Aramex KSA,702,2,2,172.71,36.62,On-Time,0
+KSA-LOG-1367,Madinah Distribution Center,Dammam,Aramex KSA,1320,4,7,248.2,47.04,Delayed - Customs,1
+KSA-LOG-1368,Jeddah Port Hub,Madinah,Aramex KSA,261,1,1,121.85,30.39,On-Time,0
+KSA-LOG-1369,Jeddah Port Hub,Riyadh,SAL Express,764,2,3,194.2,43.23,Delayed - Weather,1
+KSA-LOG-1370,Jeddah Port Hub,Khobar,Aramex KSA,1073,3,3,213.86,41.21,On-Time,0
+KSA-LOG-1371,Jeddah Port Hub,Khobar,SMSA Express,624,2,2,97.62,9.08,On-Time,0
+KSA-LOG-1372,Jeddah Port Hub,Khobar,SAL Express,985,3,3,165.18,24.55,On-Time,0
+KSA-LOG-1373,Dammam Logistics Gateway,Madinah,SAL Express,420,2,5,74.32,6.29,Delayed - Customs,1
+KSA-LOG-1374,Jeddah Port Hub,Madinah,SAL Express,570,2,2,156.28,34.27,On-Time,0
+KSA-LOG-1375,Riyadh Central Hub,Dammam,Aramex KSA,856,3,3,212.28,47.52,On-Time,0
+KSA-LOG-1376,NEOM Supply Hub,NEOM,Aramex KSA,189,1,1,58.35,7.29,On-Time,0
+KSA-LOG-1377,Jeddah Port Hub,Jeddah,Aramex KSA,338,1,1,144.11,36.83,On-Time,0
+KSA-LOG-1378,NEOM Supply Hub,Khobar,SMSA Express,1337,4,4,211.46,31.8,On-Time,0
+KSA-LOG-1379,Jeddah Port Hub,Tabuk,SMSA Express,1143,3,3,189.92,29.39,On-Time,0
+KSA-LOG-1380,Jeddah Port Hub,NEOM,SAL Express,685,2,2,129.33,19.81,On-Time,0
+KSA-LOG-1381,Dammam Logistics Gateway,Tabuk,SAL Express,1177,3,4,164.36,18.08,Delayed - Customs,1
+KSA-LOG-1382,Dammam Logistics Gateway,Dammam,SMSA Express,439,2,2,66.97,2.74,On-Time,0
+KSA-LOG-1383,NEOM Supply Hub,Dammam,SAL Express,582,2,4,99.78,11.29,Delayed - Traffic/Route,1
+KSA-LOG-1384,Dammam Logistics Gateway,Dammam,SAL Express,620,2,5,77.72,1.25,Delayed - Customs,1
+KSA-LOG-1385,NEOM Supply Hub,Riyadh,SMSA Express,1354,4,4,206.52,29.28,On-Time,0
+KSA-LOG-1386,Jeddah Port Hub,Tabuk,Aramex KSA,777,2,5,101.51,5.74,Delayed - Traffic/Route,1
+KSA-LOG-1387,Jeddah Port Hub,NEOM,SPL (Saudi Post),428,2,2,168.52,43.71,On-Time,0
+KSA-LOG-1388,NEOM Supply Hub,NEOM,SPL (Saudi Post),1026,3,3,173.08,26.4,On-Time,0
+KSA-LOG-1389,NEOM Supply Hub,Madinah,Aramex KSA,730,2,5,171.23,35.13,Delayed - Customs,1
+KSA-LOG-1390,Madinah Distribution Center,Madinah,SMSA Express,1012,3,3,158.06,20.84,On-Time,0
+KSA-LOG-1391,Riyadh Central Hub,Khobar,Aramex KSA,403,2,2,127.86,28.25,On-Time,0
+KSA-LOG-1392,Riyadh Central Hub,Madinah,Aramex KSA,330,1,1,169.3,47.16,On-Time,0
+KSA-LOG-1393,NEOM Supply Hub,Dammam,SAL Express,830,3,4,102.9,4.6,Delayed - Traffic/Route,1
+KSA-LOG-1394,Riyadh Central Hub,NEOM,SMSA Express,974,3,3,135.6,13.07,On-Time,0
+KSA-LOG-1395,Madinah Distribution Center,Tabuk,Aramex KSA,849,3,3,190.7,39.11,On-Time,0
+KSA-LOG-1396,NEOM Supply Hub,Dammam,SMSA Express,715,2,2,95.68,5.39,On-Time,0
+KSA-LOG-1397,Riyadh Central Hub,Riyadh,SMSA Express,829,3,3,101.94,4.25,On-Time,0
+KSA-LOG-1398,NEOM Supply Hub,Madinah,SMSA Express,540,2,2,114.2,18.4,On-Time,0
+KSA-LOG-1399,NEOM Supply Hub,Dammam,SAL Express,1258,4,4,138.29,5.06,On-Time,0
+KSA-LOG-1400,Jeddah Port Hub,Dammam,SMSA Express,361,1,1,127.53,29.46,On-Time,0
+KSA-LOG-1401,Madinah Distribution Center,Riyadh,SAL Express,533,2,2,96.89,11.7,On-Time,0
+KSA-LOG-1402,Riyadh Central Hub,Jeddah,SAL Express,491,2,2,176.38,44.84,On-Time,0
+KSA-LOG-1403,NEOM Supply Hub,NEOM,SAL Express,993,3,3,202.64,39.28,On-Time,0
+KSA-LOG-1404,Riyadh Central Hub,Tabuk,Aramex KSA,1211,4,4,209.73,35.14,On-Time,0
+KSA-LOG-1405,NEOM Supply Hub,Khobar,SAL Express,569,2,2,148.12,31.04,On-Time,0
+KSA-LOG-1406,Riyadh Central Hub,Jeddah,SMSA Express,900,3,3,205.1,43.24,On-Time,0
+KSA-LOG-1407,Jeddah Port Hub,Madinah,SAL Express,1342,4,4,161.21,11.54,On-Time,0
+KSA-LOG-1408,Madinah Distribution Center,Dammam,SPL (Saudi Post),455,2,2,170.7,43.72,On-Time,0
+KSA-LOG-1409,Jeddah Port Hub,Riyadh,SAL Express,851,3,3,192.03,39.58,On-Time,0
+KSA-LOG-1410,Riyadh Central Hub,Riyadh,SMSA Express,1018,3,3,200.26,37.53,On-Time,0
+KSA-LOG-1411,Madinah Distribution Center,NEOM,SPL (Saudi Post),686,2,2,150.58,28.28,On-Time,0
+KSA-LOG-1412,Madinah Distribution Center,Jeddah,Aramex KSA,1285,4,5,159.52,12.69,Delayed - Warehouse,1
+KSA-LOG-1413,Dammam Logistics Gateway,Khobar,SAL Express,355,1,1,107.08,21.47,On-Time,0
+KSA-LOG-1414,Dammam Logistics Gateway,NEOM,Aramex KSA,1358,4,6,233.09,39.78,Delayed - Traffic/Route,1
+KSA-LOG-1415,Riyadh Central Hub,Dammam,SMSA Express,645,2,2,81.77,2.07,On-Time,0
+KSA-LOG-1416,Jeddah Port Hub,NEOM,SMSA Express,1220,4,7,220.62,39.21,Delayed - Weather,1
+KSA-LOG-1417,Riyadh Central Hub,Tabuk,SAL Express,653,2,5,108.19,12.38,Delayed - Warehouse,1
+KSA-LOG-1418,Dammam Logistics Gateway,Riyadh,SAL Express,1195,3,3,139.7,7.64,On-Time,0
+KSA-LOG-1419,NEOM Supply Hub,Riyadh,Aramex KSA,362,1,1,69.54,6.23,On-Time,0
+KSA-LOG-1420,NEOM Supply Hub,Madinah,SMSA Express,459,2,3,66.34,1.85,Delayed - Customs,1
+KSA-LOG-1421,NEOM Supply Hub,Madinah,SMSA Express,810,3,3,155.85,26.42,On-Time,0
+KSA-LOG-1422,Jeddah Port Hub,Khobar,Aramex KSA,902,3,3,125.41,11.3,On-Time,0
+KSA-LOG-1423,Riyadh Central Hub,Dammam,Aramex KSA,421,2,2,182.38,49.48,On-Time,0
+KSA-LOG-1424,Jeddah Port Hub,Tabuk,SAL Express,1087,3,4,184.29,28.93,Delayed - Customs,1
+KSA-LOG-1425,Riyadh Central Hub,Jeddah,Aramex KSA,1375,4,4,153.32,7.33,On-Time,0
+KSA-LOG-1426,Riyadh Central Hub,NEOM,SAL Express,181,1,1,125.96,34.59,On-Time,0
+KSA-LOG-1427,NEOM Supply Hub,Khobar,Aramex KSA,592,2,4,184.71,44.94,Delayed - Weather,1
+KSA-LOG-1428,Riyadh Central Hub,Dammam,Aramex KSA,311,1,1,143.35,37.39,On-Time,0
+KSA-LOG-1429,Jeddah Port Hub,Madinah,SPL (Saudi Post),916,3,3,108.98,4.28,On-Time,0
+KSA-LOG-1430,Jeddah Port Hub,NEOM,SAL Express,403,2,2,169.36,44.85,On-Time,0
+KSA-LOG-1431,NEOM Supply Hub,Madinah,SAL Express,670,2,2,178.1,39.8,On-Time,0
+KSA-LOG-1432,Dammam Logistics Gateway,NEOM,SAL Express,1126,3,3,135.93,8.34,On-Time,0
+KSA-LOG-1433,Jeddah Port Hub,Jeddah,SAL Express,159,1,1,45.37,3.06,On-Time,0
+KSA-LOG-1434,Jeddah Port Hub,Dammam,SAL Express,875,3,3,165.22,28.09,On-Time,0
+KSA-LOG-1435,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),654,2,2,97.87,8.22,On-Time,0
+KSA-LOG-1436,Jeddah Port Hub,Tabuk,SAL Express,934,3,3,204.24,41.81,On-Time,0
+KSA-LOG-1437,NEOM Supply Hub,Khobar,SAL Express,585,2,2,117.4,18.24,On-Time,0
+KSA-LOG-1438,Dammam Logistics Gateway,Riyadh,Aramex KSA,1284,4,6,241.94,45.69,Delayed - Customs,1
+KSA-LOG-1439,Jeddah Port Hub,Tabuk,SMSA Express,302,1,1,120.41,28.5,On-Time,0
+KSA-LOG-1440,Jeddah Port Hub,Tabuk,Aramex KSA,1066,3,3,134.13,9.54,On-Time,0
+KSA-LOG-1441,Madinah Distribution Center,Khobar,SAL Express,1018,3,3,124.96,7.41,On-Time,0
+KSA-LOG-1442,Riyadh Central Hub,Riyadh,SMSA Express,1275,4,4,199.6,29.04,On-Time,0
+KSA-LOG-1443,Riyadh Central Hub,Tabuk,SAL Express,902,3,3,192.68,38.21,On-Time,0
+KSA-LOG-1444,NEOM Supply Hub,NEOM,SAL Express,1364,4,5,232.07,39.18,Delayed - Warehouse,1
+KSA-LOG-1445,Madinah Distribution Center,NEOM,SPL (Saudi Post),712,2,2,117.34,14.15,On-Time,0
+KSA-LOG-1446,Madinah Distribution Center,NEOM,SAL Express,1254,4,4,151.84,10.61,On-Time,0
+KSA-LOG-1447,NEOM Supply Hub,Riyadh,SMSA Express,638,2,2,79.36,1.33,On-Time,0
+KSA-LOG-1448,Riyadh Central Hub,Tabuk,SMSA Express,1044,3,3,193.82,34.12,On-Time,0
+KSA-LOG-1449,Jeddah Port Hub,Riyadh,SAL Express,1261,4,4,136.6,4.29,On-Time,0
+KSA-LOG-1450,NEOM Supply Hub,NEOM,SPL (Saudi Post),1367,4,4,187.68,21.33,On-Time,0
+KSA-LOG-1451,Dammam Logistics Gateway,Khobar,SAL Express,253,1,4,120.94,30.28,Delayed - Customs,1
+KSA-LOG-1452,Riyadh Central Hub,Tabuk,Aramex KSA,1269,4,4,243.74,46.89,On-Time,0
+KSA-LOG-1453,Madinah Distribution Center,Tabuk,SPL (Saudi Post),1371,4,4,174.5,15.93,On-Time,0
+KSA-LOG-1454,Jeddah Port Hub,Madinah,SMSA Express,1174,3,3,151.07,12.86,On-Time,0
+KSA-LOG-1455,Riyadh Central Hub,Madinah,SPL (Saudi Post),1156,3,3,199.68,32.88,On-Time,0
+KSA-LOG-1456,Jeddah Port Hub,Jeddah,SAL Express,556,2,4,147.36,31.15,Delayed - Traffic/Route,1
+KSA-LOG-1457,Riyadh Central Hub,Dammam,SMSA Express,316,1,1,92.63,16.94,On-Time,0
+KSA-LOG-1458,Jeddah Port Hub,Madinah,SAL Express,658,2,2,193.74,46.44,On-Time,0
+KSA-LOG-1459,Jeddah Port Hub,Riyadh,Aramex KSA,462,2,2,167.76,42.32,On-Time,0
+KSA-LOG-1460,Jeddah Port Hub,Madinah,SPL (Saudi Post),912,3,3,126.94,11.59,On-Time,0
+KSA-LOG-1461,Dammam Logistics Gateway,Jeddah,SAL Express,830,3,3,122.25,12.34,On-Time,0
+KSA-LOG-1462,Dammam Logistics Gateway,Tabuk,Aramex KSA,626,2,2,139.73,25.86,On-Time,0
+KSA-LOG-1463,Dammam Logistics Gateway,Jeddah,SAL Express,222,1,1,139.74,38.79,On-Time,0
+KSA-LOG-1464,Madinah Distribution Center,Tabuk,SMSA Express,1314,4,4,136.82,2.68,On-Time,0
+KSA-LOG-1465,Riyadh Central Hub,Khobar,SMSA Express,731,2,2,170.53,34.82,On-Time,0
+KSA-LOG-1466,Jeddah Port Hub,Khobar,SPL (Saudi Post),411,2,2,139.36,32.59,On-Time,0
+KSA-LOG-1467,NEOM Supply Hub,Tabuk,Aramex KSA,394,1,1,86.42,11.96,On-Time,0
+KSA-LOG-1468,Jeddah Port Hub,Dammam,SAL Express,710,2,2,167.38,34.23,On-Time,0
+KSA-LOG-1469,Madinah Distribution Center,Madinah,SAL Express,1249,4,4,242.52,47.04,On-Time,0
+KSA-LOG-1470,Jeddah Port Hub,Riyadh,SAL Express,324,1,1,57.97,2.82,On-Time,0
+KSA-LOG-1471,Madinah Distribution Center,Riyadh,SAL Express,258,1,1,86.44,16.32,On-Time,0
+KSA-LOG-1472,Jeddah Port Hub,NEOM,SAL Express,332,1,1,107.04,22.19,On-Time,0
+KSA-LOG-1473,NEOM Supply Hub,Tabuk,SPL (Saudi Post),341,1,1,164.8,45.01,On-Time,0
+KSA-LOG-1474,Riyadh Central Hub,Riyadh,SMSA Express,214,1,1,162.44,48.13,On-Time,0
+KSA-LOG-1475,Madinah Distribution Center,Dammam,SMSA Express,1112,3,3,170.16,22.48,On-Time,0
+KSA-LOG-1476,Jeddah Port Hub,Tabuk,SAL Express,1273,4,4,220.92,37.63,On-Time,0
+KSA-LOG-1477,Dammam Logistics Gateway,Dammam,SPL (Saudi Post),1013,3,3,173.09,26.82,On-Time,0
+KSA-LOG-1478,Madinah Distribution Center,Riyadh,Aramex KSA,1301,4,4,196.88,27.12,On-Time,0
+KSA-LOG-1479,Riyadh Central Hub,Riyadh,SAL Express,518,2,2,102.12,14.27,On-Time,0
+KSA-LOG-1480,Dammam Logistics Gateway,NEOM,Aramex KSA,1000,3,3,133.1,11.24,On-Time,0
+KSA-LOG-1481,Dammam Logistics Gateway,Riyadh,SMSA Express,192,1,2,77.26,14.76,Delayed - Traffic/Route,1
+KSA-LOG-1482,Riyadh Central Hub,Tabuk,SAL Express,637,2,2,146.06,28.04,On-Time,0
+KSA-LOG-1483,Dammam Logistics Gateway,Khobar,SMSA Express,227,1,1,48.01,1.94,On-Time,0
+KSA-LOG-1484,Dammam Logistics Gateway,Tabuk,SMSA Express,975,3,3,216.52,45.41,On-Time,0
+KSA-LOG-1485,Madinah Distribution Center,Tabuk,SAL Express,823,3,3,111.44,8.24,On-Time,0
+KSA-LOG-1486,Jeddah Port Hub,NEOM,SPL (Saudi Post),850,3,3,121.48,11.39,On-Time,0
+KSA-LOG-1487,Jeddah Port Hub,NEOM,Aramex KSA,908,3,3,163.01,26.15,On-Time,0
+KSA-LOG-1488,Madinah Distribution Center,Riyadh,Aramex KSA,877,3,3,184.28,35.65,On-Time,0
+KSA-LOG-1489,NEOM Supply Hub,Jeddah,SMSA Express,1074,3,3,124.02,5.24,On-Time,0
+KSA-LOG-1490,Riyadh Central Hub,Jeddah,SMSA Express,1051,3,3,149.66,16.23,On-Time,0
+KSA-LOG-1491,Dammam Logistics Gateway,NEOM,Aramex KSA,1038,3,4,229.17,48.45,Delayed - Customs,1
+KSA-LOG-1492,Jeddah Port Hub,Riyadh,SMSA Express,1142,3,3,150.08,13.49,On-Time,0
+KSA-LOG-1493,Jeddah Port Hub,Jeddah,SAL Express,1341,4,4,172.28,16.0,On-Time,0
+KSA-LOG-1494,Riyadh Central Hub,Riyadh,SMSA Express,488,2,2,168.82,41.91,On-Time,0
+KSA-LOG-1495,Riyadh Central Hub,Riyadh,Aramex KSA,342,1,1,59.84,2.99,On-Time,0
+KSA-LOG-1496,Dammam Logistics Gateway,Riyadh,SMSA Express,432,2,2,118.31,23.5,On-Time,0
+KSA-LOG-1497,Jeddah Port Hub,Madinah,SAL Express,539,2,5,116.34,19.29,Delayed - Traffic/Route,1
+KSA-LOG-1498,Madinah Distribution Center,Tabuk,Aramex KSA,1149,3,3,157.34,16.17,On-Time,0
+KSA-LOG-1499,Madinah Distribution Center,Riyadh,SAL Express,674,2,3,115.52,14.64,Delayed - Customs,1
+KSA-LOG-1500,Dammam Logistics Gateway,Madinah,SAL Express,808,3,3,102.19,5.02,On-Time,0
+KSA-LOG-1501,Riyadh Central Hub,NEOM,SAL Express,865,3,3,134.4,16.08,On-Time,0
+KSA-LOG-1502,Riyadh Central Hub,Jeddah,SAL Express,1040,3,3,114.78,2.63,On-Time,0
+KSA-LOG-1503,NEOM Supply Hub,Tabuk,Aramex KSA,1262,4,4,223.86,39.16,On-Time,0
+KSA-LOG-1504,Dammam Logistics Gateway,Khobar,SMSA Express,1268,4,5,176.96,20.21,Delayed - Weather,1
+KSA-LOG-1505,Jeddah Port Hub,Jeddah,SAL Express,601,2,4,129.26,22.47,Delayed - Customs,1
+KSA-LOG-1506,Madinah Distribution Center,Tabuk,SPL (Saudi Post),577,2,2,182.98,44.73,On-Time,0
+KSA-LOG-1507,NEOM Supply Hub,Khobar,SPL (Saudi Post),1324,4,4,213.6,33.07,On-Time,0
+KSA-LOG-1508,Madinah Distribution Center,Jeddah,SPL (Saudi Post),1195,3,3,122.85,0.9,On-Time,0
+KSA-LOG-1509,Dammam Logistics Gateway,Tabuk,SAL Express,1032,3,4,225.54,47.19,Delayed - Warehouse,1
+KSA-LOG-1510,Dammam Logistics Gateway,Jeddah,SMSA Express,462,2,2,92.56,12.24,On-Time,0
+KSA-LOG-1511,Riyadh Central Hub,Jeddah,SPL (Saudi Post),989,3,3,118.7,5.83,On-Time,0
+KSA-LOG-1512,Madinah Distribution Center,Khobar,Aramex KSA,668,2,2,174.74,38.52,On-Time,0
+KSA-LOG-1513,NEOM Supply Hub,Jeddah,SAL Express,1379,4,4,198.5,25.27,On-Time,0
+KSA-LOG-1514,Jeddah Port Hub,Jeddah,SAL Express,524,2,2,121.84,21.97,On-Time,0
+KSA-LOG-1515,Jeddah Port Hub,Khobar,SMSA Express,600,2,3,105.12,12.85,Delayed - Warehouse,1
+KSA-LOG-1516,Riyadh Central Hub,NEOM,SPL (Saudi Post),1164,3,3,187.12,27.6,On-Time,0
+KSA-LOG-1517,NEOM Supply Hub,Riyadh,SMSA Express,744,2,2,119.72,14.08,On-Time,0
+KSA-LOG-1518,Madinah Distribution Center,Dammam,SMSA Express,1352,4,4,245.98,45.13,On-Time,0
+KSA-LOG-1519,Jeddah Port Hub,Madinah,SAL Express,1383,4,6,163.51,11.15,Delayed - Customs,1
+KSA-LOG-1520,Dammam Logistics Gateway,Dammam,Aramex KSA,649,2,2,187.62,44.28,On-Time,0
+KSA-LOG-1521,Riyadh Central Hub,Dammam,Aramex KSA,613,2,2,144.51,28.19,On-Time,0
+KSA-LOG-1522,Madinah Distribution Center,Tabuk,SMSA Express,1297,4,7,232.53,41.51,Delayed - Customs,1
+KSA-LOG-1523,NEOM Supply Hub,Riyadh,Aramex KSA,262,1,1,135.44,35.79,On-Time,0
+KSA-LOG-1524,NEOM Supply Hub,Tabuk,SPL (Saudi Post),1185,3,3,207.28,34.99,On-Time,0
+KSA-LOG-1525,Riyadh Central Hub,Riyadh,SAL Express,1299,4,4,170.32,16.56,On-Time,0
+KSA-LOG-1526,Riyadh Central Hub,Khobar,SMSA Express,480,2,2,93.6,12.08,On-Time,0
+KSA-LOG-1527,Jeddah Port Hub,Khobar,SAL Express,289,1,4,75.47,10.94,Delayed - Traffic/Route,1
+KSA-LOG-1528,Jeddah Port Hub,Riyadh,Aramex KSA,1051,3,3,216.4,42.93,On-Time,0
+KSA-LOG-1529,NEOM Supply Hub,Jeddah,SMSA Express,1270,4,6,229.38,41.11,Delayed - Customs,1
+KSA-LOG-1530,NEOM Supply Hub,NEOM,Aramex KSA,666,2,4,134.06,22.31,Delayed - Warehouse,1
+KSA-LOG-1531,Madinah Distribution Center,Jeddah,Aramex KSA,718,2,2,100.06,7.05,On-Time,0
+KSA-LOG-1532,Madinah Distribution Center,NEOM,SMSA Express,995,3,3,153.15,19.42,On-Time,0
+KSA-LOG-1533,Dammam Logistics Gateway,Tabuk,SPL (Saudi Post),1242,4,4,202.26,31.16,On-Time,0
+KSA-LOG-1534,NEOM Supply Hub,NEOM,SMSA Express,267,1,4,103.84,22.99,Delayed - Traffic/Route,1
+KSA-LOG-1535,Madinah Distribution Center,Tabuk,SAL Express,1037,3,3,205.76,39.12,On-Time,0
+KSA-LOG-1536,NEOM Supply Hub,Khobar,Aramex KSA,1232,4,4,248.26,49.88,On-Time,0
+KSA-LOG-1537,Jeddah Port Hub,Dammam,Aramex KSA,1206,4,7,146.38,9.96,Delayed - Customs,1
+KSA-LOG-1538,Riyadh Central Hub,Khobar,SAL Express,199,1,1,99.04,23.25,On-Time,0
+KSA-LOG-1539,Jeddah Port Hub,Khobar,SPL (Saudi Post),168,1,4,93.01,21.83,Delayed - Warehouse,1
+KSA-LOG-1540,Madinah Distribution Center,Dammam,SPL (Saudi Post),875,3,3,133.93,15.57,On-Time,0
+KSA-LOG-1541,Dammam Logistics Gateway,NEOM,SAL Express,346,1,1,78.46,10.31,On-Time,0
+KSA-LOG-1542,Jeddah Port Hub,NEOM,SPL (Saudi Post),708,2,2,91.02,3.75,On-Time,0
+KSA-LOG-1543,Dammam Logistics Gateway,Tabuk,SAL Express,601,2,2,184.1,44.41,On-Time,0
+KSA-LOG-1544,Dammam Logistics Gateway,Jeddah,SAL Express,438,2,2,113.24,21.28,On-Time,0
+KSA-LOG-1545,Riyadh Central Hub,Tabuk,SAL Express,1314,4,4,192.87,25.1,On-Time,0
+KSA-LOG-1546,Jeddah Port Hub,Jeddah,SPL (Saudi Post),1257,4,4,240.28,45.89,On-Time,0
+KSA-LOG-1547,Dammam Logistics Gateway,Khobar,Aramex KSA,540,2,2,165.52,38.93,On-Time,0
+KSA-LOG-1548,Riyadh Central Hub,Dammam,SAL Express,364,1,1,71.52,6.96,On-Time,0
+KSA-LOG-1549,NEOM Supply Hub,Khobar,SMSA Express,364,1,1,125.34,28.49,On-Time,0
+KSA-LOG-1550,Riyadh Central Hub,Riyadh,Aramex KSA,277,1,1,103.14,22.39,On-Time,0
+KSA-LOG-1551,NEOM Supply Hub,NEOM,SAL Express,909,3,3,197.62,39.96,On-Time,0
+KSA-LOG-1552,Dammam Logistics Gateway,Jeddah,SPL (Saudi Post),553,2,2,160.12,36.35,On-Time,0
+KSA-LOG-1553,Dammam Logistics Gateway,Tabuk,Aramex KSA,1202,4,4,207.86,34.68,On-Time,0
+KSA-LOG-1554,NEOM Supply Hub,Dammam,SMSA Express,487,2,2,107.36,17.36,On-Time,0
+KSA-LOG-1555,Riyadh Central Hub,Jeddah,SPL (Saudi Post),980,3,3,204.28,40.35,On-Time,0
+KSA-LOG-1556,Jeddah Port Hub,Tabuk,SMSA Express,863,3,3,101.76,3.09,On-Time,0
+KSA-LOG-1557,Jeddah Port Hub,NEOM,SPL (Saudi Post),510,2,2,86.8,8.4,On-Time,0
+KSA-LOG-1558,NEOM Supply Hub,Khobar,Aramex KSA,718,2,2,125.22,17.11,On-Time,0
+KSA-LOG-1559,Dammam Logistics Gateway,NEOM,Aramex KSA,367,1,4,65.11,4.3,Delayed - Weather,1
+KSA-LOG-1560,Dammam Logistics Gateway,Madinah,SAL Express,351,1,1,83.4,12.13,On-Time,0
+KSA-LOG-1561,Jeddah Port Hub,Riyadh,SPL (Saudi Post),166,1,1,142.26,41.59,On-Time,0
+KSA-LOG-1562,Jeddah Port Hub,Madinah,SMSA Express,471,2,5,181.28,47.44,Delayed - Warehouse,1
+KSA-LOG-1563,Jeddah Port Hub,Dammam,SAL Express,667,2,4,117.31,15.58,Delayed - Warehouse,1
+KSA-LOG-1564,Riyadh Central Hub,Jeddah,SAL Express,830,3,3,125.38,13.59,On-Time,0
+KSA-LOG-1565,Dammam Logistics Gateway,Dammam,SMSA Express,1255,4,4,161.28,14.35,On-Time,0
+KSA-LOG-1566,Riyadh Central Hub,Khobar,SMSA Express,574,2,2,106.54,14.25,On-Time,0
+KSA-LOG-1567,Riyadh Central Hub,Tabuk,Aramex KSA,1377,4,4,140.86,2.28,On-Time,0
+KSA-LOG-1568,Madinah Distribution Center,NEOM,SPL (Saudi Post),1168,3,3,234.39,46.38,On-Time,0
+KSA-LOG-1569,Riyadh Central Hub,Madinah,SAL Express,536,2,2,95.58,11.08,On-Time,0
+KSA-LOG-1570,Riyadh Central Hub,Madinah,Aramex KSA,927,3,3,152.38,21.29,On-Time,0
+KSA-LOG-1571,NEOM Supply Hub,Khobar,SAL Express,247,1,2,47.21,0.98,Delayed - Customs,1
+KSA-LOG-1572,Riyadh Central Hub,Madinah,SPL (Saudi Post),357,1,1,160.99,42.97,On-Time,0
+KSA-LOG-1573,Dammam Logistics Gateway,Khobar,Aramex KSA,735,2,2,175.52,36.69,On-Time,0
+KSA-LOG-1574,NEOM Supply Hub,Dammam,SMSA Express,315,1,4,168.6,47.36,Delayed - Customs,1
+KSA-LOG-1575,Madinah Distribution Center,NEOM,Aramex KSA,171,1,1,136.66,39.19,On-Time,0
+KSA-LOG-1576,Jeddah Port Hub,Jeddah,SAL Express,303,1,4,89.32,16.03,Delayed - Warehouse,1
+KSA-LOG-1577,Madinah Distribution Center,Tabuk,SMSA Express,368,1,1,86.36,12.77,On-Time,0
+KSA-LOG-1578,Riyadh Central Hub,Jeddah,Aramex KSA,818,3,3,178.04,35.04,On-Time,0
+KSA-LOG-1579,Jeddah Port Hub,Dammam,SMSA Express,379,1,1,101.62,18.52,On-Time,0
+KSA-LOG-1580,Riyadh Central Hub,Tabuk,SMSA Express,169,1,1,109.84,28.53,On-Time,0
+KSA-LOG-1581,Madinah Distribution Center,Madinah,SMSA Express,702,2,2,83.18,0.81,On-Time,0
+KSA-LOG-1582,Riyadh Central Hub,Riyadh,Aramex KSA,1099,3,3,121.82,3.56,On-Time,0
+KSA-LOG-1583,Riyadh Central Hub,Dammam,SAL Express,297,1,1,116.26,27.0,On-Time,0
+KSA-LOG-1584,Dammam Logistics Gateway,Dammam,SAL Express,1281,4,4,198.78,28.52,On-Time,0
+KSA-LOG-1585,Jeddah Port Hub,NEOM,Aramex KSA,552,2,2,163.41,37.7,On-Time,0
+KSA-LOG-1586,Jeddah Port Hub,Jeddah,Aramex KSA,745,2,2,102.18,7.03,On-Time,0
+KSA-LOG-1587,Jeddah Port Hub,Dammam,SAL Express,516,2,2,131.03,25.9,On-Time,0
+KSA-LOG-1588,Jeddah Port Hub,Dammam,SAL Express,951,3,3,126.4,10.13,On-Time,0
+KSA-LOG-1589,Jeddah Port Hub,Madinah,SAL Express,1067,3,4,123.14,5.11,Delayed - Warehouse,1
+KSA-LOG-1590,Jeddah Port Hub,Madinah,SAL Express,1307,4,5,181.61,20.82,Delayed - Customs,1
+KSA-LOG-1591,Dammam Logistics Gateway,Tabuk,SMSA Express,222,1,2,64.24,8.59,Delayed - Warehouse,1
+KSA-LOG-1592,Jeddah Port Hub,Khobar,Aramex KSA,630,2,2,104.1,11.48,On-Time,0
+KSA-LOG-1593,Riyadh Central Hub,Khobar,Aramex KSA,709,2,2,122.27,16.22,On-Time,0
+KSA-LOG-1594,NEOM Supply Hub,Riyadh,Aramex KSA,894,3,4,129.87,13.34,Delayed - Weather,1
+KSA-LOG-1595,Riyadh Central Hub,Khobar,SMSA Express,249,1,1,57.02,4.84,On-Time,0
+KSA-LOG-1596,Dammam Logistics Gateway,NEOM,Aramex KSA,1232,4,4,135.94,4.95,On-Time,0
+KSA-LOG-1597,Jeddah Port Hub,Riyadh,SMSA Express,657,2,2,102.74,10.07,On-Time,0
+KSA-LOG-1598,Jeddah Port Hub,Tabuk,SPL (Saudi Post),407,2,2,65.06,3.0,On-Time,0
+KSA-LOG-1599,Jeddah Port Hub,Madinah,Aramex KSA,562,2,2,148.74,31.51,On-Time,0
+KSA-LOG-1600,Jeddah Port Hub,Khobar,SAL Express,1238,4,4,160.84,14.72,On-Time,0
+KSA-LOG-1601,Jeddah Port Hub,Jeddah,Aramex KSA,744,2,2,120.4,14.35,On-Time,0
+KSA-LOG-1602,Jeddah Port Hub,Madinah,SAL Express,1327,4,4,173.48,16.93,On-Time,0
+KSA-LOG-1603,Jeddah Port Hub,NEOM,Aramex KSA,415,2,2,141.48,33.31,On-Time,0
+KSA-LOG-1604,Jeddah Port Hub,Madinah,SAL Express,970,3,3,211.6,43.6,On-Time,0
+KSA-LOG-1605,Riyadh Central Hub,NEOM,SAL Express,1252,4,4,220.33,38.07,On-Time,0
+KSA-LOG-1606,Jeddah Port Hub,NEOM,SPL (Saudi Post),811,3,4,181.15,36.51,Delayed - Customs,1
+KSA-LOG-1607,Riyadh Central Hub,NEOM,SAL Express,1096,3,4,173.88,24.48,Delayed - Warehouse,1
+KSA-LOG-1608,Riyadh Central Hub,Tabuk,Aramex KSA,709,2,2,168.82,34.84,On-Time,0
+KSA-LOG-1609,Dammam Logistics Gateway,NEOM,SAL Express,1066,3,3,179.93,27.86,On-Time,0
+KSA-LOG-1610,Jeddah Port Hub,NEOM,Aramex KSA,1040,3,3,136.2,11.2,On-Time,0
+KSA-LOG-1611,NEOM Supply Hub,Jeddah,Aramex KSA,1017,3,3,133.44,10.83,On-Time,0
+KSA-LOG-1612,Dammam Logistics Gateway,Riyadh,SMSA Express,759,2,2,123.64,15.17,On-Time,0
+KSA-LOG-1613,Jeddah Port Hub,Dammam,SAL Express,563,2,2,183.99,45.58,On-Time,0
+KSA-LOG-1614,NEOM Supply Hub,Riyadh,SAL Express,174,1,1,107.92,27.6,On-Time,0
+KSA-LOG-1615,Madinah Distribution Center,NEOM,SAL Express,433,2,2,151.71,36.83,On-Time,0
+KSA-LOG-1616,Jeddah Port Hub,Jeddah,SAL Express,1030,3,5,151.52,17.65,Delayed - Customs,1
+KSA-LOG-1617,Jeddah Port Hub,Madinah,Aramex KSA,450,2,2,112.7,20.68,On-Time,0
+KSA-LOG-1618,NEOM Supply Hub,Jeddah,SPL (Saudi Post),1241,4,4,141.08,6.72,On-Time,0
+KSA-LOG-1619,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),1180,3,4,141.85,8.98,Delayed - Warehouse,1
+KSA-LOG-1620,Jeddah Port Hub,Jeddah,Aramex KSA,966,3,3,205.9,41.45,On-Time,0
+KSA-LOG-1621,Jeddah Port Hub,Khobar,Aramex KSA,1310,4,4,203.42,29.45,On-Time,0
+KSA-LOG-1622,Riyadh Central Hub,Jeddah,Aramex KSA,1337,4,4,174.98,17.21,On-Time,0
+KSA-LOG-1623,Riyadh Central Hub,NEOM,SAL Express,232,1,2,144.16,40.24,Delayed - Customs,1
+KSA-LOG-1624,Dammam Logistics Gateway,Tabuk,SPL (Saudi Post),1246,4,6,156.43,12.7,Delayed - Traffic/Route,1
+KSA-LOG-1625,Riyadh Central Hub,Khobar,Aramex KSA,195,1,1,162.62,48.81,On-Time,0
+KSA-LOG-1626,Riyadh Central Hub,Jeddah,SMSA Express,767,2,2,130.28,17.57,On-Time,0
+KSA-LOG-1627,Dammam Logistics Gateway,Dammam,SAL Express,1077,3,3,154.16,17.2,On-Time,0
+KSA-LOG-1628,Jeddah Port Hub,Dammam,SMSA Express,411,2,2,97.73,15.94,On-Time,0
+KSA-LOG-1629,Jeddah Port Hub,Jeddah,SMSA Express,325,1,1,67.35,6.54,On-Time,0
+KSA-LOG-1630,Dammam Logistics Gateway,Tabuk,SPL (Saudi Post),1339,4,4,147.12,6.0,On-Time,0
+KSA-LOG-1631,NEOM Supply Hub,Madinah,SMSA Express,806,3,3,170.93,32.58,On-Time,0
+KSA-LOG-1632,Riyadh Central Hub,NEOM,SMSA Express,991,3,3,213.83,43.82,On-Time,0
+KSA-LOG-1633,Riyadh Central Hub,Dammam,SPL (Saudi Post),519,2,2,165.6,39.63,On-Time,0
+KSA-LOG-1634,Jeddah Port Hub,Madinah,SAL Express,203,1,1,59.94,7.48,On-Time,0
+KSA-LOG-1635,Riyadh Central Hub,Jeddah,SMSA Express,839,3,3,160.9,27.51,On-Time,0
+KSA-LOG-1636,Riyadh Central Hub,Madinah,SAL Express,1300,4,5,143.32,5.73,Delayed - Customs,1
+KSA-LOG-1637,Jeddah Port Hub,Khobar,Aramex KSA,516,2,2,73.13,2.74,On-Time,0
+KSA-LOG-1638,Jeddah Port Hub,Riyadh,SPL (Saudi Post),793,2,2,170.92,32.99,On-Time,0
+KSA-LOG-1639,Riyadh Central Hub,Dammam,SAL Express,528,2,5,134.72,26.99,Delayed - Weather,1
+KSA-LOG-1640,Jeddah Port Hub,Jeddah,SPL (Saudi Post),222,1,1,54.16,4.56,On-Time,0
+KSA-LOG-1641,Riyadh Central Hub,NEOM,SAL Express,1064,3,3,115.7,2.23,On-Time,0
+KSA-LOG-1642,Jeddah Port Hub,Tabuk,SPL (Saudi Post),1009,3,3,229.44,49.49,On-Time,0
+KSA-LOG-1643,Riyadh Central Hub,Khobar,Aramex KSA,192,1,4,45.34,1.99,Delayed - Traffic/Route,1
+KSA-LOG-1644,Jeddah Port Hub,Jeddah,Aramex KSA,526,2,3,123.33,22.5,Delayed - Customs,1
+KSA-LOG-1645,NEOM Supply Hub,NEOM,SAL Express,1214,4,4,185.82,25.48,On-Time,0
+KSA-LOG-1646,Dammam Logistics Gateway,Tabuk,SPL (Saudi Post),319,1,1,66.29,6.31,On-Time,0
+KSA-LOG-1647,Dammam Logistics Gateway,Tabuk,Aramex KSA,361,1,1,76.05,8.87,On-Time,0
+KSA-LOG-1648,NEOM Supply Hub,Jeddah,SAL Express,188,1,1,84.82,17.91,On-Time,0
+KSA-LOG-1649,Riyadh Central Hub,Khobar,Aramex KSA,518,2,4,161.94,38.2,Delayed - Weather,1
+KSA-LOG-1650,Jeddah Port Hub,Madinah,SAL Express,906,3,6,161.48,25.6,Delayed - Weather,1
+KSA-LOG-1651,Riyadh Central Hub,Madinah,SPL (Saudi Post),300,1,1,129.2,32.08,On-Time,0
+KSA-LOG-1652,Dammam Logistics Gateway,Tabuk,SAL Express,1284,4,6,250.9,49.27,Delayed - Customs,1
+KSA-LOG-1653,Dammam Logistics Gateway,Madinah,Aramex KSA,1220,4,7,218.9,38.52,Delayed - Warehouse,1
+KSA-LOG-1654,Riyadh Central Hub,Riyadh,SMSA Express,1173,3,3,173.84,22.0,On-Time,0
+KSA-LOG-1655,Jeddah Port Hub,Tabuk,SAL Express,886,3,4,152.38,22.6,Delayed - Customs,1
+KSA-LOG-1656,Jeddah Port Hub,Tabuk,SAL Express,218,1,3,120.26,31.13,Delayed - Traffic/Route,1
+KSA-LOG-1657,Riyadh Central Hub,NEOM,SAL Express,448,2,2,144.44,33.44,On-Time,0
+KSA-LOG-1658,Dammam Logistics Gateway,Madinah,SMSA Express,1093,3,5,175.66,25.29,Delayed - Weather,1
+KSA-LOG-1659,Dammam Logistics Gateway,Khobar,SAL Express,951,3,5,182.13,32.42,Delayed - Weather,1
+KSA-LOG-1660,Riyadh Central Hub,Tabuk,SMSA Express,445,2,2,64.75,1.66,On-Time,0
+KSA-LOG-1661,Madinah Distribution Center,Khobar,SAL Express,352,1,1,107.58,21.77,On-Time,0
+KSA-LOG-1662,Dammam Logistics Gateway,Riyadh,SAL Express,210,1,4,77.57,14.31,Delayed - Customs,1
+KSA-LOG-1663,Jeddah Port Hub,NEOM,Aramex KSA,1095,3,3,129.83,6.89,On-Time,0
+KSA-LOG-1664,Jeddah Port Hub,Jeddah,SAL Express,1112,3,3,127.54,5.43,On-Time,0
+KSA-LOG-1665,Jeddah Port Hub,Khobar,SPL (Saudi Post),1334,4,4,207.62,30.36,On-Time,0
+KSA-LOG-1666,Jeddah Port Hub,Tabuk,SPL (Saudi Post),480,2,2,129.45,26.42,On-Time,0
+KSA-LOG-1667,Jeddah Port Hub,Riyadh,Aramex KSA,487,2,2,96.58,13.05,On-Time,0
+KSA-LOG-1668,Jeddah Port Hub,Dammam,SMSA Express,788,2,2,147.56,23.81,On-Time,0
+KSA-LOG-1669,Jeddah Port Hub,Riyadh,SPL (Saudi Post),424,2,5,121.1,24.87,Delayed - Weather,1
+KSA-LOG-1670,Jeddah Port Hub,Riyadh,SAL Express,1337,4,7,157.34,10.15,Delayed - Weather,1
+KSA-LOG-1671,NEOM Supply Hub,NEOM,SAL Express,468,2,2,144.39,32.78,On-Time,0
+KSA-LOG-1672,Jeddah Port Hub,Jeddah,SAL Express,738,2,2,181.94,39.16,On-Time,0
+KSA-LOG-1673,Riyadh Central Hub,Dammam,Aramex KSA,653,2,2,176.44,39.68,On-Time,0
+KSA-LOG-1674,Riyadh Central Hub,Madinah,SAL Express,536,2,2,143.68,30.32,On-Time,0
+KSA-LOG-1675,Madinah Distribution Center,Madinah,SMSA Express,1019,3,3,171.09,25.83,On-Time,0
+KSA-LOG-1676,Jeddah Port Hub,Khobar,SPL (Saudi Post),982,3,3,112.36,3.52,On-Time,0
+KSA-LOG-1677,Riyadh Central Hub,Riyadh,SPL (Saudi Post),1164,3,3,155.0,14.75,On-Time,0
+KSA-LOG-1678,Madinah Distribution Center,NEOM,SMSA Express,752,2,2,97.96,5.12,On-Time,0
+KSA-LOG-1679,NEOM Supply Hub,NEOM,SAL Express,840,3,4,212.73,48.21,Delayed - Traffic/Route,1
+KSA-LOG-1680,NEOM Supply Hub,Madinah,Aramex KSA,643,2,5,94.42,7.19,Delayed - Warehouse,1
+KSA-LOG-1681,Jeddah Port Hub,Khobar,SMSA Express,639,2,2,96.15,8.01,On-Time,0
+KSA-LOG-1682,Jeddah Port Hub,Khobar,SAL Express,870,3,4,205.92,44.53,Delayed - Weather,1
+KSA-LOG-1683,Dammam Logistics Gateway,Khobar,SAL Express,1246,4,6,242.73,47.22,Delayed - Customs,1
+KSA-LOG-1684,Madinah Distribution Center,Dammam,SPL (Saudi Post),658,2,2,173.66,38.41,On-Time,0
+KSA-LOG-1685,Dammam Logistics Gateway,Jeddah,Aramex KSA,539,2,4,70.04,0.77,Delayed - Customs,1
+KSA-LOG-1686,Dammam Logistics Gateway,Dammam,Aramex KSA,444,2,3,61.94,0.57,Delayed - Customs,1
+KSA-LOG-1687,Jeddah Port Hub,Tabuk,SPL (Saudi Post),945,3,3,148.65,19.22,On-Time,0
+KSA-LOG-1688,NEOM Supply Hub,Tabuk,SMSA Express,1014,3,3,125.12,7.6,On-Time,0
+KSA-LOG-1689,Jeddah Port Hub,Jeddah,SMSA Express,698,2,2,84.36,1.41,On-Time,0
+KSA-LOG-1690,Riyadh Central Hub,Madinah,SMSA Express,798,2,2,147.51,23.47,On-Time,0
+KSA-LOG-1691,Riyadh Central Hub,Jeddah,SAL Express,717,2,2,200.31,47.18,On-Time,0
+KSA-LOG-1692,Riyadh Central Hub,NEOM,SMSA Express,1360,4,4,175.12,16.53,On-Time,0
+KSA-LOG-1693,Jeddah Port Hub,Tabuk,Aramex KSA,1002,3,3,188.24,33.23,On-Time,0
+KSA-LOG-1694,Jeddah Port Hub,Riyadh,Aramex KSA,919,3,6,180.5,32.79,Delayed - Customs,1
+KSA-LOG-1695,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),594,2,3,104.85,12.93,Delayed - Customs,1
+KSA-LOG-1696,Jeddah Port Hub,Madinah,SMSA Express,512,2,2,147.71,32.7,On-Time,0
+KSA-LOG-1697,Dammam Logistics Gateway,NEOM,Aramex KSA,272,1,3,74.28,11.01,Delayed - Customs,1
+KSA-LOG-1698,Jeddah Port Hub,Dammam,Aramex KSA,1361,4,4,150.23,6.54,On-Time,0
+KSA-LOG-1699,Riyadh Central Hub,NEOM,SMSA Express,891,3,3,184.33,35.22,On-Time,0
+KSA-LOG-1700,Riyadh Central Hub,Riyadh,Aramex KSA,829,3,3,106.62,6.12,On-Time,0
+KSA-LOG-1701,Jeddah Port Hub,Riyadh,SAL Express,569,2,2,195.14,49.85,On-Time,0
+KSA-LOG-1702,Riyadh Central Hub,Tabuk,SMSA Express,241,1,1,68.23,9.58,On-Time,0
+KSA-LOG-1703,Jeddah Port Hub,NEOM,SAL Express,212,1,1,116.74,29.91,On-Time,0
+KSA-LOG-1704,Jeddah Port Hub,NEOM,SMSA Express,661,2,2,130.03,20.86,On-Time,0
+KSA-LOG-1705,Madinah Distribution Center,Riyadh,SMSA Express,1312,4,4,146.86,6.76,On-Time,0
+KSA-LOG-1706,Riyadh Central Hub,Dammam,Aramex KSA,1358,4,4,138.34,1.88,On-Time,0
+KSA-LOG-1707,NEOM Supply Hub,Madinah,SPL (Saudi Post),1378,4,4,213.56,31.33,On-Time,0
+KSA-LOG-1708,Jeddah Port Hub,Khobar,Aramex KSA,921,3,5,199.76,40.43,Delayed - Customs,1
+KSA-LOG-1709,Dammam Logistics Gateway,Madinah,Aramex KSA,1387,4,4,241.41,42.18,On-Time,0
+KSA-LOG-1710,NEOM Supply Hub,NEOM,SMSA Express,405,2,2,118.38,24.39,On-Time,0
+KSA-LOG-1711,Dammam Logistics Gateway,Madinah,Aramex KSA,284,1,1,145.17,38.98,On-Time,0
+KSA-LOG-1712,Riyadh Central Hub,Riyadh,SAL Express,1024,3,3,191.44,33.81,On-Time,0
+KSA-LOG-1713,Riyadh Central Hub,Riyadh,SAL Express,971,3,3,193.56,36.35,On-Time,0
+KSA-LOG-1714,Riyadh Central Hub,NEOM,SMSA Express,237,1,1,106.16,24.88,On-Time,0
+KSA-LOG-1715,Madinah Distribution Center,NEOM,SMSA Express,1137,3,3,195.58,31.85,On-Time,0
+KSA-LOG-1716,NEOM Supply Hub,Khobar,SAL Express,1380,4,4,236.32,40.37,On-Time,0
+KSA-LOG-1717,Madinah Distribution Center,Khobar,SAL Express,1302,4,4,179.66,20.2,On-Time,0
+KSA-LOG-1718,Jeddah Port Hub,Tabuk,SAL Express,972,3,3,203.76,40.4,On-Time,0
+KSA-LOG-1719,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),1176,3,3,193.58,29.8,On-Time,0
+KSA-LOG-1720,Madinah Distribution Center,Dammam,SAL Express,1123,3,3,136.62,8.71,On-Time,0
+KSA-LOG-1721,Jeddah Port Hub,Madinah,SMSA Express,1083,3,3,115.94,1.72,On-Time,0
+KSA-LOG-1722,Jeddah Port Hub,NEOM,SAL Express,270,1,1,92.75,18.46,On-Time,0
+KSA-LOG-1723,Dammam Logistics Gateway,Jeddah,Aramex KSA,1211,4,5,190.78,27.56,Delayed - Customs,1
+KSA-LOG-1724,Dammam Logistics Gateway,Tabuk,SAL Express,1157,3,3,222.74,42.07,On-Time,0
+KSA-LOG-1725,NEOM Supply Hub,Jeddah,SAL Express,1074,3,3,127.94,6.81,On-Time,0
+KSA-LOG-1726,Jeddah Port Hub,Riyadh,SMSA Express,794,2,2,188.8,40.11,On-Time,0
+KSA-LOG-1727,NEOM Supply Hub,Khobar,SAL Express,863,3,3,202.09,43.22,On-Time,0
+KSA-LOG-1728,Jeddah Port Hub,Madinah,SAL Express,1009,3,6,125.62,7.96,Delayed - Customs,1
+KSA-LOG-1729,Jeddah Port Hub,NEOM,SAL Express,170,1,1,145.22,42.65,On-Time,0
+KSA-LOG-1730,Jeddah Port Hub,Jeddah,SAL Express,391,1,4,180.23,49.58,Delayed - Customs,1
+KSA-LOG-1731,NEOM Supply Hub,Madinah,SAL Express,604,2,3,164.52,36.48,Delayed - Customs,1
+KSA-LOG-1732,Dammam Logistics Gateway,Riyadh,SAL Express,1112,3,3,212.34,39.35,On-Time,0
+KSA-LOG-1733,Riyadh Central Hub,Khobar,Aramex KSA,770,2,3,210.9,49.72,Delayed - Weather,1
+KSA-LOG-1734,Riyadh Central Hub,Dammam,SMSA Express,452,2,5,137.34,30.47,Delayed - Weather,1
+KSA-LOG-1735,NEOM Supply Hub,Tabuk,SMSA Express,952,3,3,140.51,15.74,On-Time,0
+KSA-LOG-1736,Riyadh Central Hub,Madinah,SAL Express,1113,3,5,218.94,41.96,Delayed - Customs,1
+KSA-LOG-1737,NEOM Supply Hub,Madinah,SPL (Saudi Post),218,1,2,119.74,30.92,Delayed - Weather,1
+KSA-LOG-1738,Riyadh Central Hub,Dammam,SMSA Express,1302,4,4,202.33,29.27,On-Time,0
+KSA-LOG-1739,Riyadh Central Hub,Madinah,SAL Express,345,1,1,85.22,13.05,On-Time,0
+KSA-LOG-1740,Riyadh Central Hub,Riyadh,Aramex KSA,289,1,1,142.97,37.94,On-Time,0
+KSA-LOG-1741,Riyadh Central Hub,Riyadh,SAL Express,432,2,5,70.91,4.54,Delayed - Customs,1
+KSA-LOG-1742,Dammam Logistics Gateway,Dammam,SAL Express,461,2,2,177.5,46.25,On-Time,0
+KSA-LOG-1743,Riyadh Central Hub,Tabuk,SMSA Express,895,3,3,138.18,16.63,On-Time,0
+KSA-LOG-1744,Jeddah Port Hub,NEOM,SPL (Saudi Post),426,2,2,76.13,6.82,On-Time,0
+KSA-LOG-1745,NEOM Supply Hub,Jeddah,SMSA Express,210,1,1,97.8,22.4,On-Time,0
+KSA-LOG-1746,Riyadh Central Hub,NEOM,Aramex KSA,201,1,1,47.58,2.6,On-Time,0
+KSA-LOG-1747,Riyadh Central Hub,Madinah,SPL (Saudi Post),302,1,1,135.14,34.39,On-Time,0
+KSA-LOG-1748,Madinah Distribution Center,Jeddah,SAL Express,693,2,5,193.39,45.18,Delayed - Customs,1
+KSA-LOG-1749,Dammam Logistics Gateway,Dammam,SAL Express,716,2,2,187.13,41.94,On-Time,0
+KSA-LOG-1750,Jeddah Port Hub,Dammam,SMSA Express,771,2,2,103.68,6.8,On-Time,0
+KSA-LOG-1751,Madinah Distribution Center,Tabuk,SMSA Express,1350,4,4,149.88,6.75,On-Time,0
+KSA-LOG-1752,Dammam Logistics Gateway,Jeddah,SMSA Express,463,2,4,163.96,40.77,Delayed - Customs,1
+KSA-LOG-1753,Riyadh Central Hub,Riyadh,SPL (Saudi Post),956,3,3,217.1,46.25,On-Time,0
+KSA-LOG-1754,Jeddah Port Hub,Jeddah,Aramex KSA,997,3,3,163.01,23.3,On-Time,0
+KSA-LOG-1755,NEOM Supply Hub,Madinah,Aramex KSA,246,1,3,107.68,25.2,Delayed - Weather,1
+KSA-LOG-1756,Dammam Logistics Gateway,Riyadh,SAL Express,1030,3,3,148.02,16.25,On-Time,0
+KSA-LOG-1757,Riyadh Central Hub,Khobar,Aramex KSA,1386,4,4,247.8,44.77,On-Time,0
+KSA-LOG-1758,NEOM Supply Hub,Khobar,SPL (Saudi Post),978,3,3,184.29,32.42,On-Time,0
+KSA-LOG-1759,NEOM Supply Hub,Khobar,Aramex KSA,286,1,1,84.8,14.77,On-Time,0
+KSA-LOG-1760,Jeddah Port Hub,Dammam,SAL Express,1179,3,3,157.55,15.29,On-Time,0
+KSA-LOG-1761,Riyadh Central Hub,Jeddah,Aramex KSA,1160,3,3,229.32,44.61,On-Time,0
+KSA-LOG-1762,Jeddah Port Hub,Khobar,SAL Express,258,1,1,48.56,1.17,On-Time,0
+KSA-LOG-1763,Dammam Logistics Gateway,NEOM,SAL Express,696,2,2,121.86,16.47,On-Time,0
+KSA-LOG-1764,Jeddah Port Hub,Tabuk,SAL Express,1212,4,4,191.81,27.94,On-Time,0
+KSA-LOG-1765,Dammam Logistics Gateway,NEOM,Aramex KSA,811,3,5,109.48,7.84,Delayed - Traffic/Route,1
+KSA-LOG-1766,NEOM Supply Hub,Khobar,Aramex KSA,574,2,2,83.57,5.06,On-Time,0
+KSA-LOG-1767,NEOM Supply Hub,Tabuk,SAL Express,779,2,4,189.47,40.86,Delayed - Customs,1
+KSA-LOG-1768,Riyadh Central Hub,Madinah,SMSA Express,410,2,2,169.73,44.77,On-Time,0
+KSA-LOG-1769,NEOM Supply Hub,NEOM,SMSA Express,236,1,1,147.06,41.27,On-Time,0
+KSA-LOG-1770,Jeddah Port Hub,Jeddah,SMSA Express,614,2,2,186.6,44.99,On-Time,0
+KSA-LOG-1771,NEOM Supply Hub,Jeddah,SAL Express,225,1,1,112.7,27.88,On-Time,0
+KSA-LOG-1772,Jeddah Port Hub,NEOM,SMSA Express,620,2,2,176.38,40.71,On-Time,0
+KSA-LOG-1773,Riyadh Central Hub,Khobar,Aramex KSA,563,2,2,118.82,19.51,On-Time,0
+KSA-LOG-1774,NEOM Supply Hub,Jeddah,SAL Express,974,3,3,186.62,33.48,On-Time,0
+KSA-LOG-1775,Jeddah Port Hub,Madinah,SAL Express,1044,3,3,232.14,49.45,On-Time,0
+KSA-LOG-1776,Jeddah Port Hub,Riyadh,SMSA Express,875,3,3,124.18,11.67,On-Time,0
+KSA-LOG-1777,Dammam Logistics Gateway,Khobar,SPL (Saudi Post),606,2,4,122.98,19.8,Delayed - Customs,1
+KSA-LOG-1778,Dammam Logistics Gateway,Madinah,Aramex KSA,802,3,3,149.81,24.26,On-Time,0
+KSA-LOG-1779,Dammam Logistics Gateway,Tabuk,Aramex KSA,821,3,4,109.01,7.33,Delayed - Warehouse,1
+KSA-LOG-1780,Dammam Logistics Gateway,Madinah,SMSA Express,644,2,2,87.8,4.51,On-Time,0
+KSA-LOG-1781,Riyadh Central Hub,Khobar,SMSA Express,1218,4,4,226.36,41.57,On-Time,0
+KSA-LOG-1782,Jeddah Port Hub,Tabuk,SAL Express,746,2,2,206.8,48.85,On-Time,0
+KSA-LOG-1783,Riyadh Central Hub,Khobar,Aramex KSA,599,2,2,124.24,20.53,On-Time,0
+KSA-LOG-1784,Jeddah Port Hub,Jeddah,SPL (Saudi Post),634,2,5,87.82,4.84,Delayed - Customs,1
+KSA-LOG-1785,Madinah Distribution Center,Riyadh,Aramex KSA,795,2,2,98.0,3.76,On-Time,0
+KSA-LOG-1786,Dammam Logistics Gateway,Khobar,SPL (Saudi Post),769,2,3,198.07,44.62,Delayed - Customs,1
+KSA-LOG-1787,Riyadh Central Hub,Khobar,Aramex KSA,1191,3,4,178.93,23.46,Delayed - Warehouse,1
+KSA-LOG-1788,Riyadh Central Hub,Jeddah,SAL Express,811,3,3,130.73,16.34,On-Time,0
+KSA-LOG-1789,Madinah Distribution Center,Dammam,SPL (Saudi Post),907,3,3,157.76,24.08,On-Time,0
+KSA-LOG-1790,Jeddah Port Hub,Jeddah,SAL Express,438,2,2,100.69,16.26,On-Time,0
+KSA-LOG-1791,Dammam Logistics Gateway,Tabuk,SMSA Express,870,3,3,156.38,24.71,On-Time,0
+KSA-LOG-1792,Riyadh Central Hub,Jeddah,SAL Express,787,2,3,195.58,43.05,Delayed - Warehouse,1
+KSA-LOG-1793,Dammam Logistics Gateway,Jeddah,SAL Express,384,1,1,130.27,29.82,On-Time,0
+KSA-LOG-1794,Jeddah Port Hub,Riyadh,SMSA Express,565,2,3,157.43,34.89,Delayed - Weather,1
+KSA-LOG-1795,NEOM Supply Hub,Jeddah,SAL Express,1087,3,3,158.34,18.55,On-Time,0
+KSA-LOG-1796,Madinah Distribution Center,Khobar,SMSA Express,648,2,2,169.49,37.06,On-Time,0
+KSA-LOG-1797,Dammam Logistics Gateway,Riyadh,SMSA Express,1123,3,3,198.59,33.5,On-Time,0
+KSA-LOG-1798,Dammam Logistics Gateway,NEOM,SAL Express,783,2,3,103.69,6.42,Delayed - Weather,1
+KSA-LOG-1799,Madinah Distribution Center,Dammam,SAL Express,1169,3,3,190.64,28.85,On-Time,0
+KSA-LOG-1800,Dammam Logistics Gateway,Riyadh,SMSA Express,264,1,1,79.15,13.21,On-Time,0
+KSA-LOG-1801,Jeddah Port Hub,Tabuk,SAL Express,1081,3,5,212.23,40.3,Delayed - Customs,1
+KSA-LOG-1802,Dammam Logistics Gateway,NEOM,Aramex KSA,823,3,3,144.79,21.58,On-Time,0
+KSA-LOG-1803,Dammam Logistics Gateway,Riyadh,Aramex KSA,1184,3,3,244.07,49.74,On-Time,0
+KSA-LOG-1804,Riyadh Central Hub,Riyadh,Aramex KSA,355,1,1,66.1,5.08,On-Time,0
+KSA-LOG-1805,Dammam Logistics Gateway,Dammam,Aramex KSA,396,1,3,154.5,39.13,Delayed - Customs,1
+KSA-LOG-1806,Madinah Distribution Center,Khobar,SMSA Express,907,3,3,182.18,33.85,On-Time,0
+KSA-LOG-1807,Madinah Distribution Center,Tabuk,Aramex KSA,1300,4,4,225.23,38.49,On-Time,0
+KSA-LOG-1808,Riyadh Central Hub,Madinah,SAL Express,296,1,1,87.98,15.72,On-Time,0
+KSA-LOG-1809,Jeddah Port Hub,Madinah,SAL Express,267,1,4,108.51,24.86,Delayed - Traffic/Route,1
+KSA-LOG-1810,Madinah Distribution Center,Riyadh,Aramex KSA,561,2,2,169.7,39.93,On-Time,0
+KSA-LOG-1811,NEOM Supply Hub,Jeddah,SMSA Express,512,2,2,95.99,12.01,On-Time,0
+KSA-LOG-1812,Jeddah Port Hub,Tabuk,Aramex KSA,286,1,1,77.1,11.69,On-Time,0
+KSA-LOG-1813,Madinah Distribution Center,NEOM,Aramex KSA,1348,4,5,202.29,27.78,Delayed - Customs,1
+KSA-LOG-1814,NEOM Supply Hub,Jeddah,SPL (Saudi Post),1107,3,3,179.61,26.42,On-Time,0
+KSA-LOG-1815,Riyadh Central Hub,Jeddah,SPL (Saudi Post),168,1,1,74.62,14.47,On-Time,0
+KSA-LOG-1816,Dammam Logistics Gateway,Tabuk,SMSA Express,344,1,4,90.64,15.25,Delayed - Weather,1
+KSA-LOG-1817,Riyadh Central Hub,Khobar,SAL Express,479,2,2,98.94,14.25,On-Time,0
+KSA-LOG-1818,Jeddah Port Hub,Riyadh,SMSA Express,324,1,1,147.64,38.69,On-Time,0
+KSA-LOG-1819,Riyadh Central Hub,Riyadh,SMSA Express,1151,3,3,199.0,32.77,On-Time,0
+KSA-LOG-1820,NEOM Supply Hub,Riyadh,Aramex KSA,598,2,2,177.09,41.7,On-Time,0
+KSA-LOG-1821,Jeddah Port Hub,Riyadh,Aramex KSA,1095,3,3,234.58,48.79,On-Time,0
+KSA-LOG-1822,Riyadh Central Hub,Madinah,Aramex KSA,290,1,1,108.12,23.97,On-Time,0
+KSA-LOG-1823,Riyadh Central Hub,Riyadh,SMSA Express,907,3,3,107.06,3.8,On-Time,0
+KSA-LOG-1824,Riyadh Central Hub,Madinah,SAL Express,1079,3,3,118.52,2.88,On-Time,0
+KSA-LOG-1825,Madinah Distribution Center,Madinah,SMSA Express,242,1,1,82.21,15.14,On-Time,0
+KSA-LOG-1826,Riyadh Central Hub,Khobar,SAL Express,388,1,3,172.69,46.66,Delayed - Warehouse,1
+KSA-LOG-1827,Riyadh Central Hub,Riyadh,SPL (Saudi Post),354,1,1,119.32,26.4,On-Time,0
+KSA-LOG-1828,Dammam Logistics Gateway,Dammam,SAL Express,709,2,4,116.6,13.95,Delayed - Warehouse,1
+KSA-LOG-1829,Riyadh Central Hub,NEOM,SAL Express,394,1,1,107.17,20.26,On-Time,0
+KSA-LOG-1830,Jeddah Port Hub,Jeddah,SAL Express,981,3,5,178.8,30.13,Delayed - Customs,1
+KSA-LOG-1831,Riyadh Central Hub,Madinah,Aramex KSA,1074,3,3,192.97,32.82,On-Time,0
+KSA-LOG-1832,Jeddah Port Hub,Tabuk,Aramex KSA,444,2,2,80.82,8.12,On-Time,0
+KSA-LOG-1833,Jeddah Port Hub,Tabuk,SAL Express,789,2,2,210.27,48.86,On-Time,0
+KSA-LOG-1834,Riyadh Central Hub,NEOM,SAL Express,1005,3,4,174.08,27.47,Delayed - Traffic/Route,1
+KSA-LOG-1835,Riyadh Central Hub,Tabuk,SMSA Express,166,1,1,56.33,7.22,On-Time,0
+KSA-LOG-1836,Madinah Distribution Center,Dammam,SAL Express,220,1,1,154.42,44.73,On-Time,0
+KSA-LOG-1837,Riyadh Central Hub,Tabuk,Aramex KSA,454,2,2,71.8,4.19,On-Time,0
+KSA-LOG-1838,Dammam Logistics Gateway,Jeddah,Aramex KSA,1180,3,3,232.98,45.43,On-Time,0
+KSA-LOG-1839,Dammam Logistics Gateway,Jeddah,SMSA Express,966,3,4,226.86,49.83,Delayed - Weather,1
+KSA-LOG-1840,Jeddah Port Hub,Madinah,SAL Express,1276,4,4,215.0,35.17,On-Time,0
+KSA-LOG-1841,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),970,3,3,199.2,38.64,On-Time,0
+KSA-LOG-1842,Jeddah Port Hub,Khobar,SMSA Express,342,1,3,95.36,17.2,Delayed - Warehouse,1
+KSA-LOG-1843,Madinah Distribution Center,Dammam,Aramex KSA,678,2,2,197.02,47.11,On-Time,0
+KSA-LOG-1844,Jeddah Port Hub,Madinah,SAL Express,320,1,1,117.4,26.72,On-Time,0
+KSA-LOG-1845,Riyadh Central Hub,Dammam,SMSA Express,400,1,1,148.88,36.75,On-Time,0
+KSA-LOG-1846,Jeddah Port Hub,Riyadh,SAL Express,1380,4,4,251.0,46.24,On-Time,0
+KSA-LOG-1847,Madinah Distribution Center,Tabuk,SMSA Express,690,2,5,202.12,48.77,Delayed - Customs,1
+KSA-LOG-1848,Riyadh Central Hub,Tabuk,SPL (Saudi Post),565,2,2,174.55,41.74,On-Time,0
+KSA-LOG-1849,Dammam Logistics Gateway,Khobar,SMSA Express,943,3,3,139.19,15.5,On-Time,0
+KSA-LOG-1850,Jeddah Port Hub,Riyadh,SAL Express,1317,4,4,251.21,48.34,On-Time,0
+KSA-LOG-1851,Dammam Logistics Gateway,Madinah,SAL Express,174,1,4,117.9,31.59,Delayed - Customs,1
+KSA-LOG-1852,Jeddah Port Hub,Khobar,SMSA Express,817,3,3,206.78,46.57,On-Time,0
+KSA-LOG-1853,NEOM Supply Hub,Riyadh,SAL Express,1246,4,4,209.6,33.97,On-Time,0
+KSA-LOG-1854,Jeddah Port Hub,NEOM,SAL Express,781,2,2,126.76,15.71,On-Time,0
+KSA-LOG-1855,Jeddah Port Hub,Jeddah,Aramex KSA,1266,4,4,173.33,18.82,On-Time,0
+KSA-LOG-1856,Jeddah Port Hub,Khobar,SMSA Express,654,2,2,146.7,27.75,On-Time,0
+KSA-LOG-1857,Riyadh Central Hub,Khobar,SAL Express,485,2,2,162.83,39.61,On-Time,0
+KSA-LOG-1858,Dammam Logistics Gateway,Madinah,SPL (Saudi Post),574,2,2,111.52,16.24,On-Time,0
+KSA-LOG-1859,Jeddah Port Hub,Dammam,SAL Express,648,2,2,149.84,29.2,On-Time,0
+KSA-LOG-1860,NEOM Supply Hub,NEOM,SPL (Saudi Post),1096,3,3,156.71,17.61,On-Time,0
+KSA-LOG-1861,Riyadh Central Hub,Madinah,SAL Express,779,2,2,189.52,40.88,On-Time,0
+KSA-LOG-1862,Riyadh Central Hub,Riyadh,SPL (Saudi Post),1372,4,4,193.76,23.6,On-Time,0
+KSA-LOG-1863,Riyadh Central Hub,Riyadh,Aramex KSA,867,3,3,105.11,4.3,On-Time,0
+KSA-LOG-1864,Riyadh Central Hub,Riyadh,Aramex KSA,488,2,2,85.84,8.72,On-Time,0
+KSA-LOG-1865,Dammam Logistics Gateway,Riyadh,SPL (Saudi Post),808,3,3,98.44,3.52,On-Time,0
+KSA-LOG-1866,Jeddah Port Hub,Dammam,SAL Express,1111,3,3,176.93,25.22,On-Time,0
+KSA-LOG-1867,Jeddah Port Hub,NEOM,SPL (Saudi Post),578,2,4,85.64,5.76,Delayed - Customs,1
+KSA-LOG-1868,NEOM Supply Hub,Tabuk,SMSA Express,1048,3,6,124.22,6.15,Delayed - Customs,1
+KSA-LOG-1869,Madinah Distribution Center,Jeddah,SMSA Express,288,1,1,165.74,47.08,On-Time,0
+KSA-LOG-1870,Riyadh Central Hub,Dammam,SAL Express,1091,3,3,221.53,43.7,On-Time,0
+KSA-LOG-1871,Jeddah Port Hub,Dammam,SMSA Express,691,2,4,137.48,22.88,Delayed - Customs,1
+KSA-LOG-1872,Dammam Logistics Gateway,Tabuk,SAL Express,206,1,4,164.73,49.3,Delayed - Traffic/Route,1
+KSA-LOG-1873,Riyadh Central Hub,Tabuk,SMSA Express,807,3,5,90.84,0.51,Delayed - Traffic/Route,1
+KSA-LOG-1874,Jeddah Port Hub,Jeddah,SMSA Express,584,2,2,148.94,30.89,On-Time,0
+KSA-LOG-1875,Jeddah Port Hub,Jeddah,Aramex KSA,533,2,2,145.17,31.01,On-Time,0
+KSA-LOG-1876,Dammam Logistics Gateway,Tabuk,Aramex KSA,709,2,2,139.57,23.14,On-Time,0
+KSA-LOG-1877,Dammam Logistics Gateway,Riyadh,SMSA Express,343,1,1,102.82,20.15,On-Time,0
+KSA-LOG-1878,Jeddah Port Hub,Dammam,SAL Express,683,2,2,137.24,23.04,On-Time,0
+KSA-LOG-1879,Jeddah Port Hub,Madinah,SAL Express,667,2,2,130.96,21.04,On-Time,0
+KSA-LOG-1880,Jeddah Port Hub,Jeddah,SAL Express,865,3,3,185.85,36.66,On-Time,0
+KSA-LOG-1881,Dammam Logistics Gateway,Jeddah,SAL Express,900,3,6,115.0,7.2,Delayed - Customs,1
+KSA-LOG-1882,Jeddah Port Hub,Tabuk,SAL Express,334,1,1,77.42,10.28,On-Time,0
+KSA-LOG-1883,Jeddah Port Hub,NEOM,SAL Express,441,2,2,83.88,9.44,On-Time,0
+KSA-LOG-1884,NEOM Supply Hub,Madinah,SPL (Saudi Post),881,3,3,129.21,13.49,On-Time,0
+KSA-LOG-1885,Jeddah Port Hub,Madinah,SMSA Express,265,1,2,112.45,26.5,Delayed - Weather,1
+KSA-LOG-1886,Dammam Logistics Gateway,Jeddah,SAL Express,974,3,5,117.92,6.0,Delayed - Customs,1
+KSA-LOG-1887,Jeddah Port Hub,Riyadh,SMSA Express,1222,4,6,231.44,43.47,Delayed - Warehouse,1
+KSA-LOG-1888,Jeddah Port Hub,NEOM,SAL Express,834,3,3,129.77,15.22,On-Time,0
+KSA-LOG-1889,Jeddah Port Hub,Madinah,SMSA Express,231,1,1,64.86,8.55,On-Time,0
+KSA-LOG-1890,Dammam Logistics Gateway,Jeddah,Aramex KSA,983,3,6,188.49,33.94,Delayed - Warehouse,1
+KSA-LOG-1891,NEOM Supply Hub,Madinah,SMSA Express,482,2,2,69.54,2.39,On-Time,0
+KSA-LOG-1892,NEOM Supply Hub,Khobar,SMSA Express,706,2,2,159.46,31.19,On-Time,0
+KSA-LOG-1893,Riyadh Central Hub,NEOM,SPL (Saudi Post),484,2,4,151.37,35.06,Delayed - Warehouse,1
+KSA-LOG-1894,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),681,2,2,107.33,11.14,On-Time,0
+KSA-LOG-1895,Jeddah Port Hub,Khobar,Aramex KSA,370,1,1,61.05,2.58,On-Time,0
+KSA-LOG-1896,Jeddah Port Hub,Dammam,SMSA Express,784,2,2,133.97,18.5,On-Time,0
+KSA-LOG-1897,NEOM Supply Hub,Khobar,Aramex KSA,472,2,2,76.21,5.38,On-Time,0
+KSA-LOG-1898,Jeddah Port Hub,Tabuk,SAL Express,152,1,1,52.83,6.27,On-Time,0
+KSA-LOG-1899,Jeddah Port Hub,Tabuk,SMSA Express,355,1,3,86.12,13.09,Delayed - Warehouse,1
+KSA-LOG-1900,Jeddah Port Hub,Jeddah,SAL Express,189,1,1,77.95,15.13,On-Time,0
+KSA-LOG-1901,Jeddah Port Hub,NEOM,SMSA Express,208,1,1,108.46,26.73,On-Time,0
+KSA-LOG-1902,Jeddah Port Hub,Dammam,SMSA Express,1100,3,3,198.2,34.08,On-Time,0
+KSA-LOG-1903,Dammam Logistics Gateway,Dammam,SAL Express,723,2,4,157.44,29.84,Delayed - Customs,1
+KSA-LOG-1904,Riyadh Central Hub,Madinah,SPL (Saudi Post),793,2,3,108.04,7.84,Delayed - Customs,1
+KSA-LOG-1905,NEOM Supply Hub,Madinah,SPL (Saudi Post),992,3,4,126.91,9.02,Delayed - Traffic/Route,1
+KSA-LOG-1906,NEOM Supply Hub,Khobar,Aramex KSA,1295,4,4,238.6,44.0,On-Time,0
+KSA-LOG-1907,Riyadh Central Hub,Dammam,SMSA Express,768,2,2,156.79,28.14,On-Time,0
+KSA-LOG-1908,Jeddah Port Hub,Khobar,SPL (Saudi Post),245,1,1,153.5,43.56,On-Time,0
+KSA-LOG-1909,Riyadh Central Hub,Khobar,SAL Express,1047,3,3,155.99,18.89,On-Time,0
+KSA-LOG-1910,Dammam Logistics Gateway,Madinah,Aramex KSA,1235,4,7,201.08,30.91,Delayed - Warehouse,1
+KSA-LOG-1911,Jeddah Port Hub,NEOM,SAL Express,710,2,2,147.85,26.42,On-Time,0
+KSA-LOG-1912,Dammam Logistics Gateway,Khobar,Aramex KSA,1054,3,4,150.07,16.3,Delayed - Customs,1
+KSA-LOG-1913,Riyadh Central Hub,Riyadh,SAL Express,497,2,2,124.16,23.76,On-Time,0
+KSA-LOG-1914,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),820,3,3,154.02,25.37,On-Time,0
+KSA-LOG-1915,Riyadh Central Hub,Dammam,SPL (Saudi Post),1297,4,4,154.86,10.44,On-Time,0
+KSA-LOG-1916,Jeddah Port Hub,Dammam,SAL Express,466,2,2,102.5,16.09,On-Time,0
+KSA-LOG-1917,Madinah Distribution Center,Khobar,SMSA Express,868,3,3,193.62,39.67,On-Time,0
+KSA-LOG-1918,NEOM Supply Hub,NEOM,SPL (Saudi Post),1221,4,4,237.26,45.83,On-Time,0
+KSA-LOG-1919,Jeddah Port Hub,Madinah,SMSA Express,1309,4,4,175.5,18.31,On-Time,0
+KSA-LOG-1920,NEOM Supply Hub,Madinah,SPL (Saudi Post),1374,4,4,174.17,15.7,On-Time,0
+KSA-LOG-1921,Riyadh Central Hub,Tabuk,SMSA Express,399,1,1,82.32,10.16,On-Time,0
+KSA-LOG-1922,NEOM Supply Hub,Dammam,SMSA Express,463,2,2,147.27,34.09,On-Time,0
+KSA-LOG-1923,NEOM Supply Hub,Jeddah,SAL Express,956,3,6,142.7,16.49,Delayed - Customs,1
+KSA-LOG-1924,Riyadh Central Hub,Tabuk,SAL Express,634,2,2,199.2,49.39,On-Time,0
+KSA-LOG-1925,Jeddah Port Hub,Madinah,Aramex KSA,1384,4,5,177.27,16.62,Delayed - Warehouse,1
+KSA-LOG-1926,Jeddah Port Hub,NEOM,SMSA Express,193,1,1,90.46,20.01,On-Time,0
+KSA-LOG-1927,Riyadh Central Hub,Madinah,SMSA Express,720,2,2,158.52,30.37,On-Time,0
+KSA-LOG-1928,Dammam Logistics Gateway,NEOM,SMSA Express,732,2,5,184.01,40.18,Delayed - Customs,1
+KSA-LOG-1929,Jeddah Port Hub,Tabuk,SMSA Express,1265,4,4,185.55,23.74,On-Time,0
+KSA-LOG-1930,Jeddah Port Hub,Dammam,SPL (Saudi Post),1044,3,3,162.07,21.42,On-Time,0
+KSA-LOG-1931,NEOM Supply Hub,Madinah,SPL (Saudi Post),369,1,1,178.97,49.78,On-Time,0
+KSA-LOG-1932,Madinah Distribution Center,Khobar,SMSA Express,1074,3,3,113.47,1.02,On-Time,0
+KSA-LOG-1933,Riyadh Central Hub,NEOM,Aramex KSA,550,2,2,181.02,44.81,On-Time,0
+KSA-LOG-1934,Jeddah Port Hub,Dammam,Aramex KSA,876,3,3,114.78,7.88,On-Time,0
+KSA-LOG-1935,Jeddah Port Hub,Jeddah,SMSA Express,1140,3,3,214.7,39.4,On-Time,0
+KSA-LOG-1936,Jeddah Port Hub,NEOM,SPL (Saudi Post),1048,3,3,186.56,31.09,On-Time,0
+KSA-LOG-1937,Madinah Distribution Center,Tabuk,SAL Express,1007,3,3,149.11,17.42,On-Time,0
+KSA-LOG-1938,Jeddah Port Hub,Jeddah,SAL Express,953,3,3,210.64,43.76,On-Time,0
+KSA-LOG-1939,Dammam Logistics Gateway,Jeddah,SPL (Saudi Post),639,2,3,78.97,1.14,Delayed - Weather,1
+KSA-LOG-1940,Jeddah Port Hub,Riyadh,SMSA Express,1087,3,4,141.26,11.72,Delayed - Traffic/Route,1
+KSA-LOG-1941,Dammam Logistics Gateway,Madinah,Aramex KSA,993,3,6,175.84,28.56,Delayed - Customs,1
+KSA-LOG-1942,Dammam Logistics Gateway,NEOM,SPL (Saudi Post),416,2,4,103.03,17.9,Delayed - Customs,1
+KSA-LOG-1943,NEOM Supply Hub,Jeddah,SAL Express,203,1,1,118.02,30.71,On-Time,0
+KSA-LOG-1944,Jeddah Port Hub,Riyadh,SPL (Saudi Post),677,2,2,83.38,1.69,On-Time,0
+KSA-LOG-1945,Jeddah Port Hub,Tabuk,SMSA Express,765,2,2,101.85,6.26,On-Time,0
+KSA-LOG-1946,Jeddah Port Hub,Dammam,SMSA Express,1232,4,4,140.54,6.79,On-Time,0
+KSA-LOG-1947,Madinah Distribution Center,Khobar,Aramex KSA,1213,4,4,146.72,9.87,On-Time,0
+KSA-LOG-1948,NEOM Supply Hub,Khobar,SPL (Saudi Post),1104,3,3,171.42,23.24,On-Time,0
+KSA-LOG-1949,Dammam Logistics Gateway,NEOM,SAL Express,535,2,2,162.12,37.73,On-Time,0
+KSA-LOG-1950,Dammam Logistics Gateway,Jeddah,SMSA Express,883,3,3,208.94,45.32,On-Time,0
+KSA-LOG-1951,Dammam Logistics Gateway,Khobar,Aramex KSA,865,3,3,198.82,41.85,On-Time,0
+KSA-LOG-1952,Jeddah Port Hub,Madinah,Aramex KSA,799,2,2,114.54,10.25,On-Time,0
+KSA-LOG-1953,Madinah Distribution Center,Khobar,Aramex KSA,449,2,2,116.77,22.34,On-Time,0
+KSA-LOG-1954,Riyadh Central Hub,Khobar,SAL Express,544,2,2,94.44,10.37,On-Time,0
+KSA-LOG-1955,Riyadh Central Hub,Khobar,SAL Express,1380,4,4,169.38,13.59,On-Time,0
+KSA-LOG-1956,Riyadh Central Hub,Riyadh,SMSA Express,742,2,2,147.94,25.43,On-Time,0
+KSA-LOG-1957,Jeddah Port Hub,Jeddah,Aramex KSA,663,2,4,87.71,3.87,Delayed - Traffic/Route,1
+KSA-LOG-1958,Jeddah Port Hub,Madinah,SAL Express,1351,4,4,161.33,11.3,On-Time,0
+KSA-LOG-1959,Dammam Logistics Gateway,Jeddah,SAL Express,545,2,2,185.6,46.8,On-Time,0
+KSA-LOG-1960,Jeddah Port Hub,NEOM,SPL (Saudi Post),520,2,2,125.52,23.57,On-Time,0
+KSA-LOG-1961,Dammam Logistics Gateway,NEOM,SAL Express,1007,3,4,161.94,22.55,Delayed - Traffic/Route,1
+KSA-LOG-1962,Jeddah Port Hub,NEOM,SPL (Saudi Post),940,3,3,103.25,1.22,On-Time,0
+KSA-LOG-1963,Riyadh Central Hub,Tabuk,Aramex KSA,807,3,3,121.44,12.75,On-Time,0
+KSA-LOG-1964,Jeddah Port Hub,Khobar,Aramex KSA,885,3,6,204.25,43.38,Delayed - Warehouse,1
+KSA-LOG-1965,Riyadh Central Hub,Tabuk,SAL Express,533,2,2,89.26,8.65,On-Time,0
+KSA-LOG-1966,Dammam Logistics Gateway,Riyadh,SAL Express,211,1,3,94.5,21.05,Delayed - Customs,1
+KSA-LOG-1967,Jeddah Port Hub,NEOM,Aramex KSA,654,2,5,80.34,1.21,Delayed - Customs,1
+KSA-LOG-1968,Dammam Logistics Gateway,Madinah,Aramex KSA,388,1,3,116.49,24.18,Delayed - Traffic/Route,1
+KSA-LOG-1969,Riyadh Central Hub,Jeddah,Aramex KSA,344,1,4,56.37,1.54,Delayed - Weather,1
+KSA-LOG-1970,Dammam Logistics Gateway,Khobar,SAL Express,827,3,3,193.83,41.07,On-Time,0
+KSA-LOG-1971,Madinah Distribution Center,Dammam,Aramex KSA,1395,4,5,239.92,41.33,Delayed - Customs,1
+KSA-LOG-1972,Dammam Logistics Gateway,Madinah,Aramex KSA,210,1,4,140.52,39.49,Delayed - Traffic/Route,1
+KSA-LOG-1973,Jeddah Port Hub,Khobar,Aramex KSA,1302,4,6,165.48,14.53,Delayed - Customs,1
+KSA-LOG-1974,Jeddah Port Hub,Tabuk,Aramex KSA,1139,3,3,220.97,41.94,On-Time,0
+KSA-LOG-1975,Jeddah Port Hub,Tabuk,Aramex KSA,834,3,4,160.17,27.38,Delayed - Customs,1
+KSA-LOG-1976,Dammam Logistics Gateway,Madinah,Aramex KSA,305,1,1,96.9,19.0,On-Time,0
+KSA-LOG-1977,Jeddah Port Hub,Tabuk,SAL Express,1072,3,6,189.38,31.45,Delayed - Customs,1
+KSA-LOG-1978,Riyadh Central Hub,NEOM,SMSA Express,1017,3,3,109.14,1.11,On-Time,0
+KSA-LOG-1979,Dammam Logistics Gateway,Riyadh,SAL Express,1052,3,3,128.11,7.58,On-Time,0
+KSA-LOG-1980,Riyadh Central Hub,Jeddah,SMSA Express,1148,3,5,209.94,37.24,Delayed - Customs,1
+KSA-LOG-1981,NEOM Supply Hub,Riyadh,SMSA Express,1124,3,3,146.4,12.59,On-Time,0
+KSA-LOG-1982,Jeddah Port Hub,Khobar,SAL Express,1380,4,5,210.65,30.1,Delayed - Weather,1
+KSA-LOG-1983,Jeddah Port Hub,Jeddah,SAL Express,537,2,5,116.86,19.56,Delayed - Weather,1
+KSA-LOG-1984,Dammam Logistics Gateway,Jeddah,SAL Express,1036,3,5,214.9,42.81,Delayed - Traffic/Route,1
+KSA-LOG-1985,Riyadh Central Hub,Riyadh,Aramex KSA,987,3,3,223.06,47.64,On-Time,0
+KSA-LOG-1986,Dammam Logistics Gateway,Madinah,SPL (Saudi Post),489,2,2,174.72,44.24,On-Time,0
+KSA-LOG-1987,Riyadh Central Hub,Jeddah,SAL Express,353,1,1,87.99,13.9,On-Time,0
+KSA-LOG-1988,Jeddah Port Hub,Riyadh,SPL (Saudi Post),310,1,1,75.07,10.11,On-Time,0
+KSA-LOG-1989,NEOM Supply Hub,Jeddah,SMSA Express,541,2,2,128.23,23.98,On-Time,0
+KSA-LOG-1990,NEOM Supply Hub,Dammam,SAL Express,918,3,3,100.59,0.86,On-Time,0
+KSA-LOG-1991,Dammam Logistics Gateway,Madinah,SAL Express,724,2,2,87.37,1.78,On-Time,0
+KSA-LOG-1992,Jeddah Port Hub,NEOM,SMSA Express,683,2,5,149.36,27.89,Delayed - Warehouse,1
+KSA-LOG-1993,Dammam Logistics Gateway,Jeddah,Aramex KSA,1243,4,7,190.09,26.26,Delayed - Customs,1
+KSA-LOG-1994,Riyadh Central Hub,Dammam,Aramex KSA,1042,3,3,232.68,49.73,On-Time,0
+KSA-LOG-1995,Jeddah Port Hub,NEOM,SAL Express,554,2,3,95.54,10.49,Delayed - Customs,1
+KSA-LOG-1996,Madinah Distribution Center,NEOM,SAL Express,757,2,2,118.76,13.28,On-Time,0
+KSA-LOG-1997,Jeddah Port Hub,Khobar,SMSA Express,977,3,3,118.46,6.12,On-Time,0
+KSA-LOG-1998,Madinah Distribution Center,Jeddah,SAL Express,1293,4,5,243.24,45.92,Delayed - Customs,1
+KSA-LOG-1999,Riyadh Central Hub,Riyadh,SAL Express,839,3,3,189.62,39.0,On-Time,0
